@@ -1197,6 +1197,448 @@ const courseData = {
     { cd: 10, tracks: [] },
     { cd: 11, tracks: [] },
     { cd: 12, tracks: [] }
+  ],
+  advanced: [
+    { // Advanced CD1
+      cd: 9,
+      tracks: [
+        {
+          number: 1,
+          title: "Command tense introduction",
+          rules: [
+            {
+              pattern: "Command tense: switch tracks (-ar verbs use -e, -er/-ir verbs use -a)",
+              examples: [
+                { english: "buy the house! (polite)", portuguese: "compre a casa!" },
+                { english: "don't buy it!", portuguese: "não o compre!" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "ligar", conjugation: "ligue", meaning: "call/ring! (command)", form: "you-command" }
+          ],
+          phrases: [
+            { portuguese: "ligue-me", english: "call me!" },
+            { portuguese: "não me ligue", english: "don't call me!" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 2,
+          title: "More command forms",
+          rules: [],
+          verbs: [
+            { infinitive: "trazer", conjugation: "trago", meaning: "I bring", form: "I" },
+            { infinitive: "trazer", conjugation: "traz", meaning: "you/he/she brings", form: "you/he/she/it" }
+          ],
+          phrases: [
+            { portuguese: "algo", english: "something" },
+            { portuguese: "trazes algo para mim?", english: "are you bringing something for me?" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 3,
+          title: "Irregular command forms",
+          rules: [],
+          verbs: [
+            { infinitive: "fazer", conjugation: "faça", meaning: "do/make! (command)", form: "you-command" },
+            { infinitive: "dizer", conjugation: "diga", meaning: "say/tell! (command)", form: "you-command" }
+          ],
+          phrases: [
+            { portuguese: "faça-o agora!", english: "do it now!" },
+            { portuguese: "diga-lhe", english: "tell him/her" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 4,
+          title: "To know (saber)",
+          rules: [],
+          verbs: [
+            { infinitive: "saber", conjugation: "sei", meaning: "I know", form: "I" },
+            { infinitive: "saber", conjugation: "sabe", meaning: "you/he/she knows", form: "you/he/she/it" },
+            { infinitive: "saber", conjugation: "sabem", meaning: "they know", form: "they" }
+          ],
+          phrases: [
+            { portuguese: "sabe-o", english: "you know it" },
+            { portuguese: "sabe-lo?", english: "do you know it?" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 5,
+          title: "All and everything",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "todo", english: "all/every" },
+            { portuguese: "tudo", english: "everything" },
+            { portuguese: "sabem tudo", english: "they know everything" },
+            { portuguese: "não sei nada", english: "I know nothing" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 6,
+          title: "To know - conhecer",
+          rules: [],
+          verbs: [
+            { infinitive: "conhecer", conjugation: "conheço", meaning: "I know (person/place)", form: "I" }
+          ],
+          phrases: [
+            { portuguese: "não o conheço", english: "I don't know him" },
+            { portuguese: "não a conheço", english: "I don't know her" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 7,
+          title: "To stay",
+          rules: [],
+          verbs: [
+            { infinitive: "ficar", conjugation: "fica", meaning: "you/he/she stays", form: "you/he/she/it" },
+            { infinitive: "ficar", conjugation: "ficam", english: "they stay", form: "they" }
+          ],
+          phrases: [
+            { portuguese: "em casa", english: "at home" },
+            { portuguese: "uma semana", english: "a week" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 8,
+          title: "Possessive pronouns - my",
+          rules: [
+            {
+              pattern: "Possessive pronouns agree with the noun: o meu (masc), a minha (fem)",
+              examples: [
+                { english: "my friend (male)", portuguese: "o meu amigo" },
+                { english: "my friends (female)", portuguese: "as minhas amigas" }
+              ]
+            }
+          ],
+          verbs: [],
+          phrases: [
+            { portuguese: "o meu amigo", english: "my friend (male)" },
+            { portuguese: "os meus amigos", english: "my friends" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 9,
+          title: "More command forms (nho verbs)",
+          rules: [],
+          verbs: [
+            { infinitive: "pôr", conjugation: "ponho", meaning: "I put", form: "I" },
+            { infinitive: "pôr", conjugation: "põe", meaning: "you/he/she puts", form: "you/he/she/it" }
+          ],
+          phrases: [
+            { portuguese: "ponha-o aqui!", english: "put it here!" },
+            { portuguese: "não o ponha aqui!", english: "don't put it here!" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 10,
+          title: "Can you?",
+          rules: [],
+          verbs: [
+            { infinitive: "poder", conjugation: "pode", meaning: "you/he/she can", form: "you/he/she/it" },
+            { infinitive: "poder", conjugation: "posso", meaning: "I can", form: "I" }
+          ],
+          phrases: [
+            { portuguese: "pode?", english: "can you?" },
+            { portuguese: "pode tê-lo pronto?", english: "can you have it ready?" }
+          ],
+          vocabulary: []
+        }
+      ]
+    },
+    { // Advanced CD2
+      cd: 10,
+      tracks: [
+        {
+          number: 1,
+          title: "Your/his/her/their",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "o seu / a sua", english: "your/his/her/their" },
+            { portuguese: "até", english: "until" },
+            { portuguese: "até amanhã", english: "see you tomorrow" },
+            { portuguese: "até à semana que vem", english: "until next week" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 2,
+          title: "Clarifiers (dele/dela)",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "o amigo dela", english: "her friend" },
+            { portuguese: "os amigos deles", english: "their friends (male)" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 3,
+          title: "Your (informal - teu/tua)",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "o teu / a tua", english: "your (informal)" },
+            { portuguese: "onde fica a tua casa?", english: "where is your house?" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 4,
+          title: "To go out",
+          rules: [],
+          verbs: [
+            { infinitive: "sair", conjugation: "saio", meaning: "I leave/go out", form: "I" },
+            { infinitive: "sair", conjugation: "sai", meaning: "you/he/she leaves", form: "you/he/she/it" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 5,
+          title: "To put (põe/pões)",
+          rules: [],
+          verbs: [
+            { infinitive: "pôr", conjugation: "pões", meaning: "you put (informal)", form: "you-informal" },
+            { infinitive: "pôr", conjugation: "põem", meaning: "they put", form: "they" }
+          ],
+          phrases: [
+            { portuguese: "porque que é que não o pões aqui?", english: "why don't you put it here?" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 6,
+          title: "Roberto commands",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "diz-me agora!", english: "tell me now! (informal)" },
+            { portuguese: "vem comigo!", english: "come with me!" },
+            { portuguese: "põe-no aqui!", english: "put it here!" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 7,
+          title: "Future tense introduction",
+          rules: [
+            {
+              pattern: "Future tense: infinitive + -ei, -ás, -á, -emos, -ão",
+              examples: [
+                { english: "I will speak", portuguese: "falarei" },
+                { english: "they will eat", portuguese: "comerão" },
+                { english: "we will leave", portuguese: "partiremos" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "falar", conjugation: "falarei", meaning: "I will speak", form: "I-future" },
+            { infinitive: "comer", conjugation: "comerão", meaning: "they will eat", form: "they-future" }
+          ],
+          phrases: [
+            { portuguese: "para casa", english: "home/towards home" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 8,
+          title: "Future - irregular (fazer, dizer, trazer)",
+          rules: [
+            {
+              pattern: "Irregular future: fazer/dizer/trazer drop -zer, add -rei, -rás, -rá",
+              examples: [
+                { english: "I will do", portuguese: "farei" },
+                { english: "I will say", portuguese: "direi" },
+                { english: "you will do (informal)", portuguese: "farás" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "fazer", conjugation: "farei", meaning: "I will do", form: "I-future" },
+            { infinitive: "dizer", conjugation: "dirá", meaning: "he/she will say", form: "he/she/it-future" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 9,
+          title: "Future - to have and to be",
+          rules: [],
+          verbs: [
+            { infinitive: "ter", conjugation: "terão", meaning: "they will have", form: "they-future" },
+            { infinitive: "ser", conjugation: "será", meaning: "it will be", form: "it-future" }
+          ],
+          phrases: [
+            { portuguese: "será necessário", english: "it will be necessary" },
+            { portuguese: "não o terão pronto", english: "they won't have it ready" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 10,
+          title: "To hope/wait",
+          rules: [],
+          verbs: [
+            { infinitive: "esperar", conjugation: "esperarei", meaning: "I will wait", form: "I-future" }
+          ],
+          phrases: [
+            { portuguese: "esperarei os teus amigos aqui", english: "I will wait for your friends here" }
+          ],
+          vocabulary: []
+        }
+      ]
+    },
+    { // Advanced CD3
+      cd: 11,
+      tracks: [
+        {
+          number: 1,
+          title: "Conditional introduction",
+          rules: [
+            {
+              pattern: "Conditional: infinitive + -ia, -ias, -ia, -íamos, -iam",
+              examples: [
+                { english: "I would speak", portuguese: "falaria" },
+                { english: "you would buy", portuguese: "compraria" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "falar", conjugation: "falaria", meaning: "I would speak", form: "I-conditional" },
+            { infinitive: "comprar", conjugation: "compraria", meaning: "I would buy", form: "I-conditional" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 2,
+          title: "Conditional - irregular",
+          rules: [],
+          verbs: [
+            { infinitive: "fazer", conjugation: "faria", meaning: "I would do", form: "I-conditional" },
+            { infinitive: "dizer", conjugation: "diria", meaning: "I would say", form: "I-conditional" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 3,
+          title: "Past tense introduction",
+          rules: [
+            {
+              pattern: "Past tense: -ar verbs = -ei, -ou, -aram / -er/-ir verbs = -i, -eu, -eram",
+              examples: [
+                { english: "I spoke", portuguese: "falei" },
+                { english: "he spoke", portuguese: "falou" },
+                { english: "they spoke", portuguese: "falaram" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "falar", conjugation: "falei", meaning: "I spoke", form: "I-past" },
+            { infinitive: "falar", conjugation: "falou", meaning: "he/she spoke", form: "he/she/it-past" }
+          ],
+          phrases: [
+            { portuguese: "ontem", english: "yesterday" },
+            { portuguese: "na semana passada", english: "last week" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 4,
+          title: "Past tense -er/-ir verbs",
+          rules: [],
+          verbs: [
+            { infinitive: "comer", conjugation: "comi", meaning: "I ate", form: "I-past" },
+            { infinitive: "comer", conjugation: "comeu", meaning: "he/she ate", form: "he/she/it-past" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 5,
+          title: "Irregular past tense",
+          rules: [],
+          verbs: [
+            { infinitive: "fazer", conjugation: "fiz", meaning: "I did", form: "I-past" },
+            { infinitive: "fazer", conjugation: "fez", meaning: "he/she did", form: "he/she/it-past" },
+            { infinitive: "ir", conjugation: "fui", meaning: "I went", form: "I-past" },
+            { infinitive: "ir", conjugation: "foi", meaning: "he/she went", form: "he/she/it-past" }
+          ],
+          phrases: [],
+          vocabulary: []
+        }
+      ]
+    },
+    { // Advanced CD4  
+      cd: 12,
+      tracks: [
+        {
+          number: 1,
+          title: "Imperfect tense",
+          rules: [
+            {
+              pattern: "Imperfect (was doing): -ar = -ava / -er/-ir = -ia",
+              examples: [
+                { english: "I was speaking", portuguese: "falava" },
+                { english: "I was eating", portuguese: "comia" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "falar", conjugation: "falava", meaning: "I was speaking", form: "I-imperfect" },
+            { infinitive: "comer", conjugation: "comia", meaning: "I was eating", form: "I-imperfect" }
+          ],
+          phrases: [],
+          vocabulary: []
+        },
+        {
+          number: 2,
+          title: "Perfect vs Imperfect",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "quando era jovem", english: "when I was young" },
+            { portuguese: "todos os dias", english: "every day" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 3,
+          title: "Reflexive verbs",
+          rules: [],
+          verbs: [
+            { infinitive: "chamar-se", conjugation: "chamo-me", meaning: "I am called / my name is", form: "I" }
+          ],
+          phrases: [
+            { portuguese: "como se chama?", english: "what's your name?" }
+          ],
+          vocabulary: []
+        },
+        {
+          number: 4,
+          title: "Advanced pronouns",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "consigo", english: "with you(formal)/him/her/it" },
+            { portuguese: "connosco", english: "with us" }
+          ],
+          vocabulary: []
+        }
+      ]
+    }
   ]
 };
 
