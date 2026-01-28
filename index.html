@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michel Thomas Portuguese Practice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1 class="title">🇵🇹 Michel Thomas Portuguese</h1>
+            <p class="subtitle">Practice what you've learned</p>
+        </header>
+
+        <!-- Progress Tracker -->
+        <section class="progress-section">
+            <div class="card progress-card">
+                <h2 class="section-title">📍 Your Progress</h2>
+                <div class="progress-controls">
+                    <div class="control-group">
+                        <label for="course-select">Course:</label>
+                        <select id="course-select" class="select-input">
+                            <option value="foundation">Foundation</option>
+                            <option value="advanced">Advanced</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="cd-select">CD:</label>
+                        <select id="cd-select" class="select-input">
+                            <!-- Populated by JavaScript -->
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label for="track-select">Track:</label>
+                        <select id="track-select" class="select-input">
+                            <!-- Populated by JavaScript -->
+                        </select>
+                    </div>
+                </div>
+                <div class="progress-info">
+                    <p id="progress-text">Select your current position to see relevant practice content</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Content Grid -->
+        <div class="content-grid">
+            <!-- Rules Section -->
+            <section class="card rules-card">
+                <h2 class="section-title">📚 Rules & Patterns</h2>
+                <div id="rules-content" class="content-area">
+                    <p class="placeholder">Select your progress to see rules you've learned</p>
+                </div>
+            </section>
+
+            <!-- Verbs Section -->
+            <section class="card verbs-card">
+                <h2 class="section-title">✏️ Verbs</h2>
+                <div id="verbs-content" class="content-area">
+                    <p class="placeholder">Select your progress to see verb conjugations</p>
+                </div>
+            </section>
+
+            <!-- Key Phrases Section -->
+            <section class="card phrases-card">
+                <h2 class="section-title">💬 Key Phrases</h2>
+                <div id="phrases-content" class="content-area">
+                    <p class="placeholder">Select your progress to see vocabulary and phrases</p>
+                </div>
+            </section>
+        </div>
+
+        <!-- Practice Generator -->
+        <section class="card practice-card">
+            <div class="practice-header">
+                <h2 class="section-title">🎯 Practice Sentences</h2>
+                <button id="refresh-btn" class="refresh-btn">
+                    <span class="btn-icon">🔄</span>
+                    Refresh
+                </button>
+            </div>
+            <div id="practice-content" class="practice-area">
+                <p class="placeholder">Select your progress to generate practice sentences from recent tracks</p>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Based on the Michel Thomas Foundation & Advanced Portuguese courses</p>
+            <p class="footer-note">Content updates dynamically based on your progress</p>
+        </footer>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
