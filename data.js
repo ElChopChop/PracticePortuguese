@@ -211,135 +211,198 @@ const courseData = {
       tracks: [
         {
           number: 1,
-          title: "To have and to see",
-          rules: [],
+          title: "Words ending in -ary",
+          rules: [
+            {
+              pattern: "English words ending in '-ary' end in -ário in Portuguese",
+              examples: [
+                { english: "necessary", portuguese: "necessário" },
+                { english: "contrary", portuguese: "contrário" },
+                { english: "vocabulary", portuguese: "vocabulário" }
+              ]
+            }
+          ],
           verbs: [
-            { infinitive: "ter", conjugation: "tenho", meaning: "I have", form: "I" },
-            { infinitive: "ver", conjugation: "vejo", meaning: "I see", form: "I" }
+            { infinitive: "precisar", conjugation: "preciso de", meaning: "I need", form: "I" }
           ],
           phrases: [
-            { portuguese: "também", english: "also / too" }
+            { portuguese: "e", english: "and" }
           ],
           vocabulary: []
         },
         {
           number: 2,
-          title: "More object pronouns",
+          title: "To see",
           rules: [
             {
-              pattern: "Adding object pronouns to infinitives: ver + o = vê-lo (to see it/him)",
+              pattern: "When you attach 'it' to the infinitive, drop the final r and o/a turns into lo/la",
               examples: [
-                { english: "to see it", portuguese: "vê-lo" },
-                { english: "to do it", portuguese: "fazê-lo" }
+                { english: "to see it", portuguese: "vê-lo / vê-la" },
+                { english: "to do it", portuguese: "fazê-lo / fazê-la" }
               ]
             }
           ],
-          verbs: [],
+          verbs: [
+            { infinitive: "ver", conjugation: "vejo", meaning: "I see", form: "I" }
+          ],
           phrases: [],
           vocabulary: []
         },
         {
           number: 3,
-          title: "Buying and comprehending",
-          rules: [],
-          verbs: [
-            { infinitive: "comprar", conjugation: "compro", meaning: "I buy", form: "I" },
-            { infinitive: "compreender", conjugation: "compreendo", meaning: "I understand", form: "I" }
+          title: "Words ending in -ence/-ance",
+          rules: [
+            {
+              pattern: "Words ending in '-ence' and '-ance' end in -ência/-ença and -ância in Portuguese",
+              examples: [
+                { english: "influence", portuguese: "influência" },
+                { english: "preference", portuguese: "preferência" },
+                { english: "difference", portuguese: "diferença" },
+                { english: "importance", portuguese: "importância" }
+              ]
+            }
           ],
-          phrases: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "a diferença", english: "the difference" },
+            { portuguese: "uma diferença", english: "a difference" },
+            { portuguese: "que", english: "what" },
+            { portuguese: "por que", english: "for what" },
+            { portuguese: "esta noite", english: "this night / tonight" }
+          ],
           vocabulary: []
         },
         {
           number: 4,
-          title: "More vocabulary",
-          rules: [],
-          verbs: [],
+          title: "Where, to dine",
+          rules: [
+            {
+              pattern: "Words ending in '-tion' end in -ção in Portuguese",
+              examples: [
+                { english: "condition", portuguese: "condição" },
+                { english: "nation", portuguese: "nação" },
+                { english: "situation", portuguese: "situação" },
+                { english: "organization", portuguese: "organização" },
+                { english: "position", portuguese: "posição" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "jantar", conjugation: "janto", meaning: "I dine / I have dinner", form: "I" }
+          ],
           phrases: [
-            { portuguese: "tudo bem", english: "all well / everything okay" },
-            { portuguese: "bem", english: "well" },
-            { portuguese: "quando", english: "when" }
+            { portuguese: "onde", english: "where" },
+            { portuguese: "reserva", english: "reservation" },
+            { portuguese: "a", english: "the (feminine)" },
+            { portuguese: "uma", english: "a (feminine)" },
+            { portuguese: "o", english: "the (masculine)" },
+            { portuguese: "um", english: "a (masculine)" }
           ],
           vocabulary: []
         },
         {
           number: 5,
-          title: "Words ending in -ly",
-          rules: [
-            {
-              pattern: "Many words ending in '-ly' in English end in '-mente' in Portuguese",
-              examples: [
-                { english: "immediately", portuguese: "imediatamente" },
-                { english: "naturally", portuguese: "naturalmente" },
-                { english: "perfectly", portuguese: "perfeitamente" }
-              ],
-              englishPattern: "(\\w+)ly$",
-              portuguesePattern: "$1mente"
-            }
-          ],
+          title: "Of, of the",
+          rules: [],
           verbs: [],
-          phrases: [],
+          phrases: [
+            { portuguese: "de", english: "of" },
+            { portuguese: "do", english: "of the (masculine)" },
+            { portuguese: "da", english: "of the (feminine)" },
+            { portuguese: "dum", english: "of a (masculine)" },
+            { portuguese: "duma", english: "of a (feminine)" },
+            { portuguese: "confirmação", english: "confirmation" },
+            { portuguese: "tipo", english: "kind / type" },
+            { portuguese: "que tipo de", english: "what type of" }
+          ],
           vocabulary: []
         },
         {
           number: 6,
-          title: "Time and places",
-          rules: [],
-          verbs: [],
+          title: "Translation, explanation",
+          rules: [
+            {
+              pattern: "Some '-tion' words are slightly different: translation = tradução, explanation = explicação",
+              examples: [
+                { english: "translation", portuguese: "tradução" },
+                { english: "explanation", portuguese: "explicação" }
+              ]
+            }
+          ],
+          verbs: [
+            { infinitive: "dar", conjugation: "dou", meaning: "I give", form: "I" }
+          ],
           phrases: [
-            { portuguese: "tempo", english: "time / weather" },
-            { portuguese: "lugar", english: "place" },
-            { portuguese: "onde", english: "where" }
+            { portuguese: "por favor", english: "please" }
           ],
           vocabulary: []
         },
         {
           number: 7,
-          title: "More verbs",
-          rules: [],
-          verbs: [
-            { infinitive: "dar", conjugation: "dou", meaning: "I give", form: "I" },
-            { infinitive: "pôr", conjugation: "ponho", meaning: "I put", form: "I" }
+          title: "Verb formation",
+          rules: [
+            {
+              pattern: "Verbs from similar nouns: add -ar to make the verb (e.g., formação → formar)",
+              examples: [
+                { english: "to form", portuguese: "formar" },
+                { english: "to confirm", portuguese: "confirmar" }
+              ]
+            },
+            {
+              pattern: "Four verb endings: -ar (falar), -er (comer), -ir (sair), -or (pôr)",
+              examples: [
+                { english: "to speak", portuguese: "falar" },
+                { english: "to eat", portuguese: "comer" },
+                { english: "to leave / to go out", portuguese: "sair" },
+                { english: "to put", portuguese: "pôr" }
+              ]
+            }
           ],
-          phrases: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "impressão", english: "impression" }
+          ],
           vocabulary: []
         },
         {
           number: 8,
-          title: "Questions and money",
+          title: "Here, plural",
           rules: [],
           verbs: [],
           phrases: [
-            { portuguese: "quanto", english: "how much" },
-            { portuguese: "dinheiro", english: "money" },
-            { portuguese: "caro", english: "expensive" }
+            { portuguese: "aqui", english: "here" },
+            { portuguese: "os", english: "them (masculine)" },
+            { portuguese: "as", english: "them (feminine)" },
+            { portuguese: "vê-los", english: "to see them (masculine)" },
+            { portuguese: "vê-las", english: "to see them (feminine)" },
+            { portuguese: "me", english: "me" },
+            { portuguese: "ver-me", english: "to see me" }
           ],
           vocabulary: []
         },
         {
           number: 9,
-          title: "Adjectives",
-          rules: [
-            {
-              pattern: "Adjectives agree with nouns in gender: caro/cara (expensive)",
-              examples: [
-                { english: "expensive (masculine)", portuguese: "caro" },
-                { english: "expensive (feminine)", portuguese: "cara" }
-              ]
-            }
+          title: "To understand, to say",
+          rules: [],
+          verbs: [
+            { infinitive: "compreender", conjugation: "compreendo", meaning: "I understand", form: "I" },
+            { infinitive: "dizer", conjugation: "digo", meaning: "I say / I tell", form: "I" }
           ],
-          verbs: [],
-          phrases: [],
+          phrases: [
+            { portuguese: "lhe", english: "(to) you" },
+            { portuguese: "dizer-lhe", english: "to tell you" }
+          ],
           vocabulary: []
         },
         {
           number: 10,
-          title: "More vocabulary and phrases",
+          title: "This, to buy",
           rules: [],
-          verbs: [],
+          verbs: [
+            { infinitive: "comprar", conjugation: "compro", meaning: "I buy", form: "I" }
+          ],
           phrases: [
-            { portuguese: "coisa", english: "thing" },
-            { portuguese: "alguma coisa", english: "something" },
-            { portuguese: "nada", english: "nothing" }
+            { portuguese: "isto", english: "this (in general)" }
           ],
           vocabulary: []
         }

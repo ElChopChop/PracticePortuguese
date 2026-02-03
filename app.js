@@ -478,55 +478,18 @@ class PortuguesePracticeApp {
     }
 
     generatePracticeContent() {
-        const recentTracks = this.getRecentTracks(5); // Increased to 5 for richer content
         const practiceDiv = document.getElementById('practice-content');
 
-        if (recentTracks.length === 0) {
+        // Use ALL learned content, not just recent tracks
+        const content = this.getAllLearnedContent();
+
+        if (content.verbs.length === 0 && content.phrases.length === 0) {
             practiceDiv.innerHTML = '<p class="placeholder">Start the course to get practice sentences!</p>';
             return;
         }
 
-        // Collect all content from recent tracks
-        const allPhrases = [];
-        const allVerbs = [];
-        const ruleWords = []; // New: collect words from rules
-
-        recentTracks.forEach(({ cd, track }) => {
-            allPhrases.push(...(track.phrases || []));
-            allVerbs.push(...(track.verbs || []));
-
-            // Add words from rules as additional practice vocabulary
-            if (track.rules) {
-                track.rules.forEach(rule => {
-                    if (rule.examples) {
-                        rule.examples.forEach(ex => {
-                            ruleWords.push({
-                                portuguese: ex.portuguese,
-                                english: ex.english
-                            });
-                        });
-                    }
-                });
-            }
-        });
-
-        // Combine rule words with phrases for richer vocabulary
-        const allVocab = [...allPhrases, ...ruleWords];
-
-        // Add "é" as a verb if it exists in phrases but not in verbs
-        const hasEPhrase = allPhrases.find(p => p.portuguese === 'é');
-        const hasEVerb = allVerbs.find(v => v.conjugation === 'é');
-        if (hasEPhrase && !hasEVerb) {
-            allVerbs.push({
-                infinitive: 'ser',
-                conjugation: 'é',
-                meaning: 'it is',
-                form: 'it'
-            });
-        }
-
-        // Generate practice sentences with enriched vocabulary
-        const sentences = this.createPracticeSentences(allVocab, allVerbs);
+        // Generate practice sentences using all learned content
+        const sentences = this.createPracticeSentences(content.phrases, content.verbs);
 
         practiceDiv.innerHTML = '';
         sentences.slice(0, 5).forEach((sentence, index) => {
@@ -570,146 +533,115 @@ class PortuguesePracticeApp {
 
     createPracticeSentences(phrases, verbs) {
         const sentences = [];
+        const getRandom = (arr) => arr.length > 0 ? arr[Math.floor(Math.random() * arr.length)] : null;
 
-        // Helper to get a random item from an array
-        const getRandom = (arr) => arr[Math.floor(Math.random() * arr.length)];
-
-        // Helper to clean English text
         const cleanEnglish = (text) => {
             return text
-                .replace(/\s*\/\s*/g, ' or ') // Remove slashes
-                .replace(/\(speaking to a (man|woman)\)/g, '') // Remove gender notes
-                .replace(/\s+/g, ' ') // Normalize spaces
+                .replace(/\s*\/\s*/g, ' / ')
                 .trim();
         };
 
-        // Categorize phrases
-        const questionWords = phrases.filter(p =>
-            p.portuguese.includes('?') ||
-            ['porque', 'quando', 'onde', 'como'].some(q => p.portuguese.toLowerCase().includes(q))
-        );
-
-        const connectors = phrases.filter(p =>
-            ['para', 'com', 'mas', 'se', 'assim', 'também', 'e'].some(c => p.portuguese.toLowerCase() === c)
-        );
-
-        const negation = phrases.find(p => p.portuguese.toLowerCase() === 'não');
-
-        // Whitelist: Only allow phrases that work well in simple verb+phrase sentences
-        // These are mainly adverbs, time expressions, and location phrases
-        const allowedPhrasesPatterns = [
-            // Adverbs
-            'muito', 'bem', 'mal', 'sempre', 'nunca', 'também', 'só',
-            'very', 'much', 'well', 'badly', 'always', 'never', 'also', 'too', 'only',
-            // Time expressions
-            'agora', 'hoje', 'amanhã', 'ontem', 'tarde', 'cedo',
-            'now', 'today', 'tomorrow', 'yesterday', 'late', 'early', 'afternoon', 'evening',
-            'mais tarde', 'todos os dias',
-            'later', 'every day',
-            // Location expressions
-            'aqui', 'ali', 'lá', 'aqui', 'em portugal', 'no brasil', 'em casa',
-            'here', 'there',
-            'in portugal', 'in brazil', 'at home',
-            // Prepositional phrases that work
-            'para mim', 'comigo',
-            'for me', 'with me',
-            // Natural expressions
-            'tudo bem', 'naturalmente', 'imediatamente', 'perfeitamente',
-            'all well', 'naturally', 'immediately', 'perfectly'
+        // Filter out question words, connectors, and other words that don't work well in simple sentences
+        const excludeWords = [
+            // Question words
+            'porque?', 'porque é que', 'o que', 'quando?', 'onde', 'quanto?', 'como', 'por que',
+            // Connectors
+            'mas', 'e', 'se', 'que',
+            // Pronouns (we already have them in verbs)
+            'eu', 'o senhor', 'a senhora', 'ele', 'ela', 'lhe', 'me',
+            // Articles and prepositions alone
+            'o', 'a', 'um', 'uma', 'os', 'as', 'do', 'da', 'no', 'na', 'dum', 'duma', 'de', 'em',
+            // Other non-useful words
+            'sim', 'não é', 'é', 'está', 'estou'
         ];
 
-        const regularPhrases = phrases.filter(p => {
-            if (questionWords.includes(p) || connectors.includes(p) || p === negation) {
+        // Get usable phrases - exclude questions, connectors, pronouns, articles
+        const usablePhrases = phrases.filter(p => {
+            const pt = p.portuguese.toLowerCase().trim();
+
+            // Skip if it's in the exclude list
+            if (excludeWords.includes(pt)) {
                 return false;
             }
-            if (p.portuguese.includes('?') || p.portuguese.includes('/')) {
+
+            // Skip if it contains a question mark
+            if (pt.includes('?')) {
                 return false;
             }
 
-            const ptLower = p.portuguese.toLowerCase();
-            const enLower = p.english.toLowerCase();
+            // Skip very short single-letter words
+            if (pt.length < 2) {
+                return false;
+            }
 
-            // Only allow phrases that match our whitelist
-            const isAllowed = allowedPhrasesPatterns.some(pattern =>
-                ptLower.includes(pattern) || enLower.includes(pattern)
-            );
-
-            return isAllowed;
+            return true;
         });
 
-        // 1. Simple Verb + Phrase combinations (main source of practice)
-        for (let i = 0; i < 6; i++) {
-            if (verbs.length > 0 && regularPhrases.length > 0) {
-                const verb = getRandom(verbs);
-                const phrase = getRandom(regularPhrases);
-                sentences.push({
-                    portuguese: `${verb.conjugation} ${phrase.portuguese}`,
-                    english: `${verb.meaning} ${cleanEnglish(phrase.english)}`
-                });
-            }
+        // Get first-person verbs
+        const firstPersonVerbs = verbs.filter(v =>
+            v.form === 'I' || v.meaning.toLowerCase().startsWith('i ')
+        );
+
+        // Get negation word if available
+        const negation = phrases.find(p => p.portuguese.toLowerCase() === 'não');
+
+        if (firstPersonVerbs.length === 0) {
+            return [{ portuguese: 'Continue aprendendo', english: 'Keep learning' }];
         }
 
-        // 2. Negative statements
-        if (negation && verbs.length > 0 && regularPhrases.length > 0) {
-            for (let i = 0; i < 2; i++) {
-                const verb = getRandom(verbs);
-                const phrase = getRandom(regularPhrases);
+        // Generate sentences by combining verbs with usable phrases
+        const maxSentences = 10;
+        let attempts = 0;
+        const maxAttempts = 100;
 
-                const ptSentence = `${negation.portuguese} ${verb.conjugation} ${phrase.portuguese}`;
+        while (sentences.length < maxSentences && attempts < maxAttempts) {
+            attempts++;
 
-                // Build proper negative English
-                let enSentence;
-                if (verb.infinitive === 'ser' || verb.conjugation === 'é') {
-                    enSentence = `it is not ${cleanEnglish(phrase.english)}`;
-                } else if (verb.meaning.startsWith('I ')) {
-                    const verbBase = verb.meaning.replace('I ', '');
-                    enSentence = `I don't ${verbBase} ${cleanEnglish(phrase.english)}`;
+            const verb = getRandom(firstPersonVerbs);
+
+            // 70% chance to add a phrase if available
+            if (usablePhrases.length > 0 && Math.random() > 0.3) {
+                const phrase = getRandom(usablePhrases);
+
+                // 20% chance to make it negative if negation is available
+                if (negation && Math.random() > 0.8) {
+                    const ptSentence = `${negation.portuguese} ${verb.conjugation} ${phrase.portuguese}`;
+                    const verbPart = verb.meaning.toLowerCase().replace(/^i\s+/, '');
+                    const enSentence = `I don't ${verbPart} ${cleanEnglish(phrase.english)}`;
+
+                    if (!sentences.some(s => s.portuguese === ptSentence)) {
+                        sentences.push({ portuguese: ptSentence, english: enSentence });
+                    }
                 } else {
-                    enSentence = `not ${verb.meaning} ${cleanEnglish(phrase.english)}`;
-                }
+                    const ptSentence = `${verb.conjugation} ${phrase.portuguese}`;
+                    const enSentence = `${verb.meaning} ${cleanEnglish(phrase.english)}`;
 
+                    if (!sentences.some(s => s.portuguese === ptSentence)) {
+                        sentences.push({ portuguese: ptSentence, english: enSentence });
+                    }
+                }
+            }
+        }
+
+        // If we didn't generate enough sentences with phrases, add some verb-only sentences
+        while (sentences.length < Math.min(5, maxSentences) && firstPersonVerbs.length > 0) {
+            const verb = getRandom(firstPersonVerbs);
+            const ptSentence = verb.conjugation;
+            const enSentence = verb.meaning;
+
+            if (!sentences.some(s => s.portuguese === ptSentence)) {
                 sentences.push({ portuguese: ptSentence, english: enSentence });
+            } else {
+                break; // Avoid infinite loop if all verbs are already used
             }
         }
 
-        // 3. Questions
-        if (questionWords.length > 0 && verbs.length > 0 && regularPhrases.length > 0) {
-            for (let i = 0; i < 2; i++) {
-                const qWord = getRandom(questionWords);
-                const verb = getRandom(verbs);
-                const phrase = getRandom(regularPhrases);
+        // Shuffle the sentences for variety
+        this.shuffleArray(sentences);
 
-                // Simple questions like "Why is it X?"
-                if (qWord.portuguese.toLowerCase().includes('porque')) {
-                    const ptSentence = `${qWord.portuguese} ${verb.conjugation} ${phrase.portuguese}?`;
-                    const enSentence = `why is it ${cleanEnglish(phrase.english)}?`;
-                    sentences.push({ portuguese: ptSentence, english: enSentence });
-                }
-            }
-        }
-
-        // Fallback: Use existing phrases if not enough generated
-        if (sentences.length < 3) {
-            phrases.slice(0, 5).forEach(phrase => {
-                sentences.push({
-                    portuguese: phrase.portuguese,
-                    english: cleanEnglish(phrase.english)
-                });
-            });
-        }
-
-        // Remove duplicates and return unique sentences
-        const uniqueSentences = [];
-        const seen = new Set();
-
-        this.shuffleArray(sentences).forEach(s => {
-            if (!seen.has(s.portuguese) && uniqueSentences.length < 10) {
-                seen.add(s.portuguese);
-                uniqueSentences.push(s);
-            }
-        });
-
-        return uniqueSentences;
+        return sentences.length > 0 ? sentences.slice(0, maxSentences) : [
+            { portuguese: 'Continue aprendendo', english: 'Keep learning' }
+        ];
     }
 
 
