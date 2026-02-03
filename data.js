@@ -19,7 +19,7 @@ const courseData = {
           title: "Words ending in -ible/-able",
           rules: [
             {
-              pattern: "Words ending in '-ible' and '-able' in English end in '-ível' or '-ável' in Portuguese",
+              pattern: "Words ending in '-ible' and '-able' end in -ível or -ável in Portuguese",
               examples: [
                 { english: "possible", portuguese: "possível" },
                 { english: "horrible", portuguese: "horrível" },
@@ -27,9 +27,7 @@ const courseData = {
                 { english: "comfortable", portuguese: "confortável" },
                 { english: "probable", portuguese: "provável" },
                 { english: "acceptable", portuguese: "aceitável" }
-              ],
-              englishPattern: "(\\w+)(ible|able)$",
-              portuguesePattern: "$1ível"
+              ]
             }
           ],
           verbs: [],
@@ -40,7 +38,7 @@ const courseData = {
         },
         {
           number: 3,
-          title: "Basic phrases",
+          title: "For, for me, you",
           rules: [],
           verbs: [],
           phrases: [
@@ -53,10 +51,10 @@ const courseData = {
         },
         {
           number: 4,
-          title: "Negation and questions",
+          title: "Not, questions",
           rules: [
             {
-              pattern: "To make something negative, use 'não' before the verb",
+              pattern: "não goes before é to mean 'it is not'",
               examples: [
                 { english: "it is not possible", portuguese: "não é possível" }
               ]
@@ -76,7 +74,7 @@ const courseData = {
         },
         {
           number: 5,
-          title: "Question words",
+          title: "Why, like that",
           rules: [],
           verbs: [],
           phrases: [
@@ -88,23 +86,21 @@ const courseData = {
         },
         {
           number: 6,
-          title: "First verbs and words ending in -ent/-ant",
+          title: "I'm sorry, words ending in -ent/-ant",
           rules: [
             {
-              pattern: "Words ending in '-ent' and '-ant' in English end in '-ente' or '-ante' in Portuguese",
+              pattern: "Words ending in '-ent' and '-ant' end in -ente or -ante in Portuguese",
               examples: [
+                { english: "important", portuguese: "importante" },
                 { english: "different", portuguese: "diferente" },
-                { english: "important", portuguese: "importante" }
-              ],
-              englishPattern: "(\\w+)(ent|ant)$",
-              portuguesePattern: "$1ente"
+                { english: "restaurant", portuguese: "restaurante" }
+              ]
             }
           ],
           verbs: [
             { infinitive: "lamentar", conjugation: "lamento", meaning: "I'm sorry / I lament", form: "I" }
           ],
           phrases: [
-            { portuguese: "lamento", english: "I'm sorry" },
             { portuguese: "desculpe", english: "excuse me" },
             { portuguese: "mas", english: "but" },
             { portuguese: "sim", english: "yes" },
@@ -114,93 +110,77 @@ const courseData = {
         },
         {
           number: 7,
-          title: "Words ending in -ence/-ance",
-          rules: [
-            {
-              pattern: "Words ending in '-ence' and '-ance' in English end in '-ência' or '-ância' in Portuguese",
-              examples: [
-                { english: "difference", portuguese: "diferença" },
-                { english: "distance", portuguese: "distância" },
-                { english: "importance", portuguese: "importância" }
-              ],
-              englishPattern: "(\\w+)(ence|ance)$",
-              portuguesePattern: "$1ência"
-            }
+          title: "Good, very, I have",
+          rules: [],
+          verbs: [
+            { infinitive: "ter", conjugation: "tenho", meaning: "I have", form: "I" }
           ],
-          verbs: [],
-          phrases: [],
+          phrases: [
+            { portuguese: "bom", english: "good (masculine)" },
+            { portuguese: "boa", english: "good (feminine)" },
+            { portuguese: "muito", english: "very / much / a lot" },
+            { portuguese: "agora", english: "now" }
+          ],
           vocabulary: []
         },
         {
           number: 8,
-          title: "More verbs",
+          title: "Because, you have, what",
           rules: [],
           verbs: [
-            { infinitive: "pensar", conjugation: "penso", meaning: "I think", form: "I" }
+            { infinitive: "ter", conjugation: "tem", meaning: "you have", form: "you" }
           ],
           phrases: [
-            { portuguese: "o que", english: "what / that which" }
+            { portuguese: "porque", english: "because" },
+            { portuguese: "o que", english: "what" },
+            { portuguese: "o que é que", english: "what is it that" }
           ],
           vocabulary: []
         },
         {
           number: 9,
-          title: "Words ending in -tion",
-          rules: [
-            {
-              pattern: "Words ending in '-tion' in English end in '-ção' in Portuguese (feminine)",
-              examples: [
-                { english: "action", portuguese: "ação" },
-                { english: "section", portuguese: "seção" },
-                { english: "station", portuguese: "estação" }
-              ],
-              englishPattern: "(\\w+)tion$",
-              portuguesePattern: "$1ção"
-            }
+          title: "You want",
+          rules: [],
+          verbs: [
+            { infinitive: "querer", conjugation: "quer", meaning: "you want", form: "you" }
           ],
-          verbs: [],
           phrases: [],
           vocabulary: []
         },
         {
           number: 10,
-          title: "More vocabulary",
+          title: "To know, I can, to do",
           rules: [],
           verbs: [
+            { infinitive: "querer", conjugation: "quero", meaning: "I want", form: "I" },
+            { infinitive: "poder", conjugation: "posso", meaning: "I can", form: "I" },
+            { infinitive: "poder", conjugation: "pode", meaning: "you can", form: "you" },
             { infinitive: "fazer", conjugation: "faço", meaning: "I do / I make", form: "I" }
           ],
-          phrases: [
-            { portuguese: "agora", english: "now" },
-            { portuguese: "muito", english: "very / much / a lot" }
-          ],
-          vocabulary: []
-        },
-        {
-          number: 11,
-          title: "Object pronouns",
-          rules: [
-            {
-              pattern: "Direct object pronouns: o (him/it masc), a (her/it fem)",
-              examples: [
-                { english: "I do it", portuguese: "faço-o / o faço" }
-              ]
-            }
-          ],
-          verbs: [],
           phrases: [],
           vocabulary: []
         },
         {
+          number: 11,
+          title: "Today, something",
+          rules: [],
+          verbs: [],
+          phrases: [
+            { portuguese: "hoje", english: "today" },
+            { portuguese: "algo", english: "something" }
+          ],
+          vocabulary: []
+        },
+        {
           number: 12,
-          title: "More verbs and vocabulary",
+          title: "To eat, I'm hungry",
           rules: [],
           verbs: [
-            { infinitive: "querer", conjugation: "quero", meaning: "I want", form: "I" },
-            { infinitive: "poder", conjugation: "posso", meaning: "I can", form: "I" }
+            { infinitive: "comer", conjugation: "como", meaning: "I eat", form: "I" }
           ],
           phrases: [
-            { portuguese: "isso", english: "that" },
-            { portuguese: "aqui", english: "here" }
+            { portuguese: "tenho fome", english: "I'm hungry" },
+            { portuguese: "tem fome", english: "you're hungry" }
           ],
           vocabulary: []
         }

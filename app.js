@@ -6,6 +6,8 @@ class PortuguesePracticeApp {
         this.currentCourse = 'foundation';
         this.currentCD = 1;
         this.currentTrack = 1;
+        this.sentences = null; // Will be loaded from sentences.json
+        this.sentenceOffset = 0; // Track which set of 5 sentences to show
         this.initSpeech();
         this.init();
     }
@@ -65,11 +67,24 @@ class PortuguesePracticeApp {
         return btn;
     }
 
-    init() {
+    async init() {
+        await this.loadSentences();
         this.loadProgressFromStorage();
         this.setupEventListeners();
         this.populateSelectors();
         this.updateContent();
+    }
+
+    // Load sentences from JSON file
+    async loadSentences() {
+        try {
+            const response = await fetch('sentences.json');
+            this.sentences = await response.json();
+            console.log('Sentences loaded successfully');
+        } catch (error) {
+            console.error('Failed to load sentences:', error);
+            this.sentences = { foundation: {}, advanced: {} };
+        }
     }
 
     // Local Storage Management
@@ -217,6 +232,9 @@ class PortuguesePracticeApp {
 
     // Update UI Content
     updateContent() {
+        // Reset sentence offset when track changes
+        this.sentenceOffset = 0;
+
         this.updateProgressText();
         this.updateRules();
         this.updateVerbs();
@@ -242,7 +260,8 @@ class PortuguesePracticeApp {
         }
 
         rulesDiv.innerHTML = '';
-        content.rules.forEach(rule => {
+        // Reverse to show newest rules first
+        content.rules.slice().reverse().forEach(rule => {
             const ruleElement = this.createRuleElement(rule);
             rulesDiv.appendChild(ruleElement);
         });
@@ -377,7 +396,9 @@ class PortuguesePracticeApp {
             verbMap.get(verb.infinitive).push(verb);
         });
 
-        verbMap.forEach((forms, infinitive) => {
+        // Reverse to show newest verbs first
+        const reversedEntries = Array.from(verbMap.entries()).reverse();
+        reversedEntries.forEach(([infinitive, forms]) => {
             const verbDiv = document.createElement('div');
             verbDiv.className = 'verb-item';
 
@@ -464,7 +485,8 @@ class PortuguesePracticeApp {
         }
 
         phrasesDiv.innerHTML = '';
-        content.phrases.forEach(phrase => {
+        // Reverse to show newest phrases first
+        content.phrases.slice().reverse().forEach(phrase => {
             const phraseDiv = document.createElement('div');
             phraseDiv.className = 'phrase-item';
             const voiceBtn = this.createVoiceButton(phrase.portuguese);
@@ -480,19 +502,41 @@ class PortuguesePracticeApp {
     generatePracticeContent() {
         const practiceDiv = document.getElementById('practice-content');
 
-        // Use ALL learned content, not just recent tracks
-        const content = this.getAllLearnedContent();
-
-        if (content.verbs.length === 0 && content.phrases.length === 0) {
-            practiceDiv.innerHTML = '<p class="placeholder">Start the course to get practice sentences!</p>';
+        // Check if sentences are loaded
+        if (!this.sentences) {
+            practiceDiv.innerHTML = '<p class="placeholder">Loading sentences...</p>';
             return;
         }
 
-        // Generate practice sentences using all learned content
-        const sentences = this.createPracticeSentences(content.phrases, content.verbs);
+        // Get sentences for current course, CD, and track
+        const courseKey = this.currentCourse;
+        const cdNum = this.currentCD;
+        const trackNum = this.currentTrack;
+
+        const trackSentences = this.sentences[courseKey]?.[cdNum]?.[trackNum] || [];
+
+        if (trackSentences.length === 0) {
+            practiceDiv.innerHTML = '<p class="placeholder">No practice sentences for this track yet.</p>';
+            return;
+        }
+
+        // Show 5 sentences at a time, rotating on refresh
+        const totalSentences = trackSentences.length;
+        const sentencesPerPage = 5;
+
+        // Calculate which 5 sentences to show
+        const startIdx = this.sentenceOffset % totalSentences;
+        let sentencesToShow = [];
+
+        for (let i = 0; i < sentencesPerPage && i < totalSentences; i++) {
+            sentencesToShow.push(trackSentences[(startIdx + i) % totalSentences]);
+        }
+
+        // Increment offset for next refresh
+        this.sentenceOffset = (this.sentenceOffset + sentencesPerPage) % totalSentences;
 
         practiceDiv.innerHTML = '';
-        sentences.slice(0, 5).forEach((sentence, index) => {
+        sentencesToShow.forEach((sentence, index) => {
             const sentenceDiv = document.createElement('div');
             sentenceDiv.className = 'practice-item';
 

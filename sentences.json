@@ -1,0 +1,6425 @@
+{
+  "foundation": {
+    "1": {
+      "2": [
+        {
+          "portuguese": "É possível",
+          "english": "It is possible"
+        },
+        {
+          "portuguese": "É provável",
+          "english": "It is probable"
+        },
+        {
+          "portuguese": "É horrível",
+          "english": "It is horrible"
+        },
+        {
+          "portuguese": "É terrível",
+          "english": "It is terrible"
+        },
+        {
+          "portuguese": "É confortável",
+          "english": "It is comfortable"
+        },
+        {
+          "portuguese": "É aceitável",
+          "english": "It is acceptable"
+        },
+        {
+          "portuguese": "É visível",
+          "english": "It is visible"
+        },
+        {
+          "portuguese": "É reversível",
+          "english": "It is reversible"
+        },
+        {
+          "portuguese": "É inevitável",
+          "english": "It is inevitable"
+        },
+        {
+          "portuguese": "É preferível",
+          "english": "It is preferable"
+        },
+        {
+          "portuguese": "É admirável",
+          "english": "It is admirable"
+        },
+        {
+          "portuguese": "É comparável",
+          "english": "It is comparable"
+        },
+        {
+          "portuguese": "É memorável",
+          "english": "It is memorable"
+        },
+        {
+          "portuguese": "É miserável",
+          "english": "It is miserable"
+        },
+        {
+          "portuguese": "É notável",
+          "english": "It is notable"
+        },
+        {
+          "portuguese": "É razoável",
+          "english": "It is reasonable"
+        },
+        {
+          "portuguese": "É respeitável",
+          "english": "It is respectable"
+        },
+        {
+          "portuguese": "É tolerável",
+          "english": "It is tolerable"
+        },
+        {
+          "portuguese": "É variável",
+          "english": "It is variable"
+        },
+        {
+          "portuguese": "É vulnerável",
+          "english": "It is vulnerable"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "É possível para mim",
+          "english": "It is possible for me"
+        },
+        {
+          "portuguese": "É confortável para o senhor",
+          "english": "For you it is comfortable"
+        },
+        {
+          "portuguese": "É aceitável para a senhora",
+          "english": "For you it is acceptable"
+        },
+        {
+          "portuguese": "É terrível para mim",
+          "english": "It is terrible for me"
+        },
+        {
+          "portuguese": "É horrível para o senhor",
+          "english": "It is horrible for you"
+        },
+        {
+          "portuguese": "É provável para a senhora",
+          "english": "It is probable for you"
+        },
+        {
+          "portuguese": "Para mim é provável",
+          "english": "For me it is probable"
+        },
+        {
+          "portuguese": "Para o senhor é horrível",
+          "english": "For you it is horrible"
+        },
+        {
+          "portuguese": "Para a senhora é reversível",
+          "english": "For you it is reversible"
+        },
+        {
+          "portuguese": "É admirável para o senhor",
+          "english": "It is admirable for you"
+        },
+        {
+          "portuguese": "É razoável para mim",
+          "english": "It is reasonable for me"
+        },
+        {
+          "portuguese": "É memorável para a senhora",
+          "english": "It is memorable for you"
+        },
+        {
+          "portuguese": "Para mim é inevitável",
+          "english": "For me it is inevitable"
+        },
+        {
+          "portuguese": "Para o senhor é respeitável",
+          "english": "For you it is respectable"
+        },
+        {
+          "portuguese": "É variável para mim",
+          "english": "It is variable for me"
+        },
+        {
+          "portuguese": "Para a senhora é tolerável",
+          "english": "For you it is tolerable"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Não é possível",
+          "english": "It is not possible"
+        },
+        {
+          "portuguese": "Não é aceitável para mim",
+          "english": "It is not acceptable for me"
+        },
+        {
+          "portuguese": "Não é confortável para o senhor",
+          "english": "It is not comfortable for you"
+        },
+        {
+          "portuguese": "Não é provável",
+          "english": "It is not probable"
+        },
+        {
+          "portuguese": "Não é razoável para o senhor",
+          "english": "It is not reasonable for you"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "É assim para mim",
+          "english": "It is like that for me"
+        },
+        {
+          "portuguese": "Não é assim para a senhora",
+          "english": "It is not like that for you"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Lamento",
+          "english": "I'm sorry"
+        },
+        {
+          "portuguese": "Desculpe",
+          "english": "Excuse me"
+        },
+        {
+          "portuguese": "Mas é possível",
+          "english": "But it is possible"
+        },
+        {
+          "portuguese": "Mas não é aceitável",
+          "english": "But it is not acceptable"
+        },
+        {
+          "portuguese": "Sim, é importante",
+          "english": "Yes, it is important"
+        },
+        {
+          "portuguese": "É diferente para mim",
+          "english": "It is different for me"
+        },
+        {
+          "portuguese": "O restaurante é importante",
+          "english": "The restaurant is important"
+        },
+        {
+          "portuguese": "É diferente mas é aceitável",
+          "english": "It is different but it is acceptable"
+        },
+        {
+          "portuguese": "É importante e é urgente",
+          "english": "It is important and it is urgent"
+        },
+        {
+          "portuguese": "É relevante para o senhor",
+          "english": "It is relevant for you"
+        },
+        {
+          "portuguese": "Lamento mas não é possível",
+          "english": "I'm sorry but it is not possible"
+        },
+        {
+          "portuguese": "Desculpe mas é diferente",
+          "english": "Excuse me but it is different"
+        },
+        {
+          "portuguese": "Sim, é evidente",
+          "english": "Yes, it is evident"
+        },
+        {
+          "portuguese": "O restaurante é diferente mas é bom",
+          "english": "The restaurant is different but it is good"
+        },
+        {
+          "portuguese": "É constante e é importante",
+          "english": "It is constant and it is important"
+        },
+        {
+          "portuguese": "Desculpe, é urgente para mim",
+          "english": "Excuse me, it is urgent for me"
+        },
+        {
+          "portuguese": "Sim, mas é evidente",
+          "english": "Yes, but it is evident"
+        },
+        {
+          "portuguese": "Lamento mas o restaurante não é bom",
+          "english": "I'm sorry but the restaurant is not good"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "É bom",
+          "english": "It is good"
+        },
+        {
+          "portuguese": "É muito bom",
+          "english": "It is very good"
+        },
+        {
+          "portuguese": "A casa é boa",
+          "english": "The house is good"
+        },
+        {
+          "portuguese": "O restaurante é muito bom",
+          "english": "The restaurant is very good"
+        },
+        {
+          "portuguese": "Tenho",
+          "english": "I have"
+        },
+        {
+          "portuguese": "Tenho-o",
+          "english": "I have it"
+        },
+        {
+          "portuguese": "Quero-o",
+          "english": "I want it"
+        },
+        {
+          "portuguese": "Não o tenho",
+          "english": "I don't have it"
+        },
+        {
+          "portuguese": "Não o quero",
+          "english": "I don't want it"
+        },
+        {
+          "portuguese": "Tenho-o agora",
+          "english": "I have it now"
+        },
+        {
+          "portuguese": "É constante",
+          "english": "It is constant"
+        },
+        {
+          "portuguese": "É evidente",
+          "english": "It is evident"
+        },
+        {
+          "portuguese": "É urgente",
+          "english": "It is urgent"
+        },
+        {
+          "portuguese": "É urgente para mim",
+          "english": "It is urgent for me"
+        },
+        {
+          "portuguese": "A casa é muito boa",
+          "english": "The house is very good"
+        },
+        {
+          "portuguese": "O restaurante não é muito bom",
+          "english": "The restaurant is not very good"
+        },
+        {
+          "portuguese": "Quero-a agora",
+          "english": "I want it now"
+        },
+        {
+          "portuguese": "Não a tenho",
+          "english": "I don't have it"
+        },
+        {
+          "portuguese": "Tenho-a mas não a quero",
+          "english": "I have it but I don't want it"
+        },
+        {
+          "portuguese": "É muito urgente para o senhor",
+          "english": "It is very urgent for you"
+        },
+        {
+          "portuguese": "O restaurante é bom mas é muito caro",
+          "english": "The restaurant is good but it is very expensive"
+        },
+        {
+          "portuguese": "Não o quero agora",
+          "english": "I don't want it now"
+        },
+        {
+          "portuguese": "É muito evidente",
+          "english": "It is very evident"
+        },
+        {
+          "portuguese": "A casa é boa e confortável",
+          "english": "The house is good and comfortable"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Porque tenho",
+          "english": "Because I have"
+        },
+        {
+          "portuguese": "Tem",
+          "english": "You have"
+        },
+        {
+          "portuguese": "Tem-no",
+          "english": "You have it"
+        },
+        {
+          "portuguese": "Tem-na",
+          "english": "You have it"
+        },
+        {
+          "portuguese": "Porque o quero",
+          "english": "Because I want it"
+        },
+        {
+          "portuguese": "Tenho-o porque é importante",
+          "english": "I have it because it is important"
+        },
+        {
+          "portuguese": "Quero saber o que pode fazer",
+          "english": "I want to know what you can do"
+        },
+        {
+          "portuguese": "Não quero saber porque",
+          "english": "I don't want to know why"
+        },
+        {
+          "portuguese": "Não posso saber",
+          "english": "I can't know"
+        },
+        {
+          "portuguese": "Pode saber agora",
+          "english": "You can know now"
+        },
+        {
+          "portuguese": "Quero saber o que tem",
+          "english": "I want to know what you have"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Quer",
+          "english": "You want"
+        },
+        {
+          "portuguese": "Quere-o",
+          "english": "You want it"
+        },
+        {
+          "portuguese": "Quere-a",
+          "english": "You want it"
+        },
+        {
+          "portuguese": "Não o quero porque é terrível",
+          "english": "I don't want it because it is terrible"
+        },
+        {
+          "portuguese": "Não a quero",
+          "english": "I don't want it"
+        },
+        {
+          "portuguese": "Quere-a porque é importante",
+          "english": "You want it because it is important"
+        },
+        {
+          "portuguese": "Não quere-o porque é horrível",
+          "english": "You don't want it because it is horrible"
+        },
+        {
+          "portuguese": "Não a quero porque não é boa",
+          "english": "I don't want it because it is not good"
+        },
+        {
+          "portuguese": "Quere-a porque é muito boa",
+          "english": "You want it because it is very good"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Quero saber",
+          "english": "I want to know"
+        },
+        {
+          "portuguese": "Não quero saber",
+          "english": "I don't want to know"
+        },
+        {
+          "portuguese": "Posso",
+          "english": "I can"
+        },
+        {
+          "portuguese": "Pode",
+          "english": "You can"
+        },
+        {
+          "portuguese": "Fazer",
+          "english": "To do"
+        },
+        {
+          "portuguese": "Não posso fazer",
+          "english": "I can't do"
+        },
+        {
+          "portuguese": "Pode saber",
+          "english": "You can know"
+        },
+        {
+          "portuguese": "Quero saber o que pode fazer",
+          "english": "I want to know what you can do"
+        },
+        {
+          "portuguese": "Não quero saber porque",
+          "english": "I don't want to know why"
+        },
+        {
+          "portuguese": "Não posso saber",
+          "english": "I can't know"
+        },
+        {
+          "portuguese": "Pode saber agora",
+          "english": "You can know now"
+        },
+        {
+          "portuguese": "Quero saber o que tem",
+          "english": "I want to know what you have"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Hoje",
+          "english": "Today"
+        },
+        {
+          "portuguese": "Algo",
+          "english": "Something"
+        },
+        {
+          "portuguese": "Tenho algo",
+          "english": "I have something"
+        },
+        {
+          "portuguese": "Quero fazer algo hoje",
+          "english": "I want to do something today"
+        },
+        {
+          "portuguese": "Quero saber algo",
+          "english": "I want to know something"
+        },
+        {
+          "portuguese": "Não tenho algo para o senhor",
+          "english": "I don't have something for you"
+        },
+        {
+          "portuguese": "Hoje é muito importante",
+          "english": "Today is very important"
+        },
+        {
+          "portuguese": "Não quero fazer algo",
+          "english": "I don't want to do something"
+        },
+        {
+          "portuguese": "Pode saber algo hoje",
+          "english": "You can know something today"
+        }
+      ],
+      "12": [
+        {
+          "portuguese": "Comer",
+          "english": "To eat"
+        },
+        {
+          "portuguese": "Tenho fome",
+          "english": "I am hungry"
+        },
+        {
+          "portuguese": "Quero comer",
+          "english": "I want to eat"
+        },
+        {
+          "portuguese": "Tenho fome agora",
+          "english": "I am hungry now"
+        },
+        {
+          "portuguese": "Não tenho fome",
+          "english": "I am not hungry"
+        },
+        {
+          "portuguese": "Quero comer algo",
+          "english": "I want to eat something"
+        },
+        {
+          "portuguese": "Não posso comer",
+          "english": "I can't eat"
+        },
+        {
+          "portuguese": "Quero comer mas não tenho fome",
+          "english": "I want to eat but I am not hungry"
+        },
+        {
+          "portuguese": "Tenho fome mas não posso comer",
+          "english": "I am hungry but I can't eat"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "portuguese": "É necessário",
+          "english": "It is necessary"
+        },
+        {
+          "portuguese": "É contrário",
+          "english": "It is contrary"
+        },
+        {
+          "portuguese": "O vocabulário é importante",
+          "english": "The vocabulary is important"
+        },
+        {
+          "portuguese": "Preciso de",
+          "english": "I need"
+        },
+        {
+          "portuguese": "Preciso dele",
+          "english": "I need it"
+        },
+        {
+          "portuguese": "Preciso dela",
+          "english": "I need it"
+        },
+        {
+          "portuguese": "Não preciso dele",
+          "english": "I don't need it"
+        },
+        {
+          "portuguese": "É necessário e urgente",
+          "english": "It is necessary and urgent"
+        },
+        {
+          "portuguese": "Tenho o vocabulário e preciso dele",
+          "english": "I have the vocabulary and I need it"
+        },
+        {
+          "portuguese": "É ordinário",
+          "english": "It is ordinary"
+        },
+        {
+          "portuguese": "É extraordinário",
+          "english": "It is extraordinary"
+        },
+        {
+          "portuguese": "É temporário",
+          "english": "It is temporary"
+        },
+        {
+          "portuguese": "É literário",
+          "english": "It is literary"
+        },
+        {
+          "portuguese": "É sanitário",
+          "english": "It is sanitary"
+        },
+        {
+          "portuguese": "É solitário",
+          "english": "It is solitary"
+        },
+        {
+          "portuguese": "É secundário",
+          "english": "It is secondary"
+        },
+        {
+          "portuguese": "Preciso de algo",
+          "english": "I need something"
+        },
+        {
+          "portuguese": "Não preciso dela agora",
+          "english": "I don't need it now"
+        },
+        {
+          "portuguese": "Preciso dele para o senhor",
+          "english": "I need it for you"
+        },
+        {
+          "portuguese": "É contrário e não preciso dele",
+          "english": "It is contrary and I don't need it"
+        },
+        {
+          "portuguese": "O vocabulário é necessário e preciso dele",
+          "english": "The vocabulary is necessary and I need it"
+        },
+        {
+          "portuguese": "Tenho algo e preciso dele",
+          "english": "I have something and I need it"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Ver",
+          "english": "To see"
+        },
+        {
+          "portuguese": "Vê-lo",
+          "english": "To see it"
+        },
+        {
+          "portuguese": "Vê-la",
+          "english": "To see it"
+        },
+        {
+          "portuguese": "Quero vê-lo",
+          "english": "I want to see it"
+        },
+        {
+          "portuguese": "Não o quero ver",
+          "english": "I don't want to see it"
+        },
+        {
+          "portuguese": "Não quero vê-lo",
+          "english": "I don't want to see it"
+        },
+        {
+          "portuguese": "Fazer",
+          "english": "To do"
+        },
+        {
+          "portuguese": "Fazê-lo",
+          "english": "To do it"
+        },
+        {
+          "portuguese": "Fazê-la",
+          "english": "To do it"
+        },
+        {
+          "portuguese": "Posso fazê-lo",
+          "english": "I can do it"
+        },
+        {
+          "portuguese": "Não quero fazê-lo",
+          "english": "I don't want to do it"
+        },
+        {
+          "portuguese": "Quero vê-la agora",
+          "english": "I want to see it now"
+        },
+        {
+          "portuguese": "Não posso fazê-la",
+          "english": "I can't do it"
+        },
+        {
+          "portuguese": "Não quero fazê-lo porque é terrível",
+          "english": "I don't want to do it because it is terrible"
+        },
+        {
+          "portuguese": "Quero fazê-lo para o senhor",
+          "english": "I want to do it for you"
+        },
+        {
+          "portuguese": "Não o quero fazê-lo",
+          "english": "I don't want to do it"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "A influência",
+          "english": "The influence"
+        },
+        {
+          "portuguese": "A preferência",
+          "english": "The preference"
+        },
+        {
+          "portuguese": "A diferença",
+          "english": "The difference"
+        },
+        {
+          "portuguese": "A importância",
+          "english": "The importance"
+        },
+        {
+          "portuguese": "Uma diferença",
+          "english": "A difference"
+        },
+        {
+          "portuguese": "Esta noite",
+          "english": "Tonight"
+        },
+        {
+          "portuguese": "Quero comer esta noite",
+          "english": "I want to eat tonight"
+        },
+        {
+          "portuguese": "A referência",
+          "english": "The reference"
+        },
+        {
+          "portuguese": "A relevância",
+          "english": "The relevance"
+        },
+        {
+          "portuguese": "A tolerância",
+          "english": "The tolerance"
+        },
+        {
+          "portuguese": "A elegância",
+          "english": "The elegance"
+        },
+        {
+          "portuguese": "A competência",
+          "english": "The competence"
+        },
+        {
+          "portuguese": "A emergência",
+          "english": "The emergency"
+        },
+        {
+          "portuguese": "A evidência",
+          "english": "The evidence"
+        },
+        {
+          "portuguese": "A frequência",
+          "english": "The frequency"
+        },
+        {
+          "portuguese": "A paciência",
+          "english": "The patience"
+        },
+        {
+          "portuguese": "A violência",
+          "english": "The violence"
+        },
+        {
+          "portuguese": "A distância",
+          "english": "The distance"
+        },
+        {
+          "portuguese": "A fragância",
+          "english": "The fragrance"
+        },
+        {
+          "portuguese": "Uma emergência",
+          "english": "An emergency"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Jantar",
+          "english": "To have dinner"
+        },
+        {
+          "portuguese": "A condição",
+          "english": "The condition"
+        },
+        {
+          "portuguese": "A nação",
+          "english": "The nation"
+        },
+        {
+          "portuguese": "A situação",
+          "english": "The situation"
+        },
+        {
+          "portuguese": "A organização",
+          "english": "The organization"
+        },
+        {
+          "portuguese": "A posição",
+          "english": "The position"
+        },
+        {
+          "portuguese": "A reserva",
+          "english": "The reservation"
+        },
+        {
+          "portuguese": "Uma reserva",
+          "english": "A reservation"
+        },
+        {
+          "portuguese": "O restaurante",
+          "english": "The restaurant"
+        },
+        {
+          "portuguese": "Um restaurante",
+          "english": "A restaurant"
+        },
+        {
+          "portuguese": "Tenho uma reserva",
+          "english": "I have a reservation"
+        },
+        {
+          "portuguese": "A comunicação",
+          "english": "The communication"
+        },
+        {
+          "portuguese": "A celebração",
+          "english": "The celebration"
+        },
+        {
+          "portuguese": "A cooperação",
+          "english": "The cooperation"
+        },
+        {
+          "portuguese": "A educação",
+          "english": "The education"
+        },
+        {
+          "portuguese": "A admiração",
+          "english": "The admiration"
+        },
+        {
+          "portuguese": "A decoração",
+          "english": "The decoration"
+        },
+        {
+          "portuguese": "A emoção",
+          "english": "The emotion"
+        },
+        {
+          "portuguese": "A invenção",
+          "english": "The invention"
+        },
+        {
+          "portuguese": "A participação",
+          "english": "The participation"
+        },
+        {
+          "portuguese": "Tenho uma reserva no restaurante",
+          "english": "I have a reservation at the restaurant"
+        },
+        {
+          "portuguese": "A situação é importante",
+          "english": "The situation is important"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Do restaurante",
+          "english": "Of the restaurant"
+        },
+        {
+          "portuguese": "Da reserva",
+          "english": "Of the reservation"
+        },
+        {
+          "portuguese": "Duma reserva",
+          "english": "Of a reservation"
+        },
+        {
+          "portuguese": "Dum restaurante",
+          "english": "Of a restaurant"
+        },
+        {
+          "portuguese": "A confirmação",
+          "english": "The confirmation"
+        },
+        {
+          "portuguese": "Preciso duma confirmação",
+          "english": "I need a confirmation"
+        },
+        {
+          "portuguese": "O tipo",
+          "english": "The type/kind"
+        },
+        {
+          "portuguese": "A informação",
+          "english": "The information"
+        },
+        {
+          "portuguese": "A aplicação",
+          "english": "The application"
+        },
+        {
+          "portuguese": "A produção",
+          "english": "The production"
+        },
+        {
+          "portuguese": "A navegação",
+          "english": "The navigation"
+        },
+        {
+          "portuguese": "Da organização",
+          "english": "Of the organization"
+        },
+        {
+          "portuguese": "Dum restaurante muito bom",
+          "english": "Of a very good restaurant"
+        },
+        {
+          "portuguese": "Preciso duma reserva",
+          "english": "I need a reservation"
+        },
+        {
+          "portuguese": "Preciso da confirmação hoje",
+          "english": "I need the confirmation today"
+        },
+        {
+          "portuguese": "Dumas reservas",
+          "english": "Of some reservations"
+        },
+        {
+          "portuguese": "Dos restaurantes",
+          "english": "Of the restaurants"
+        },
+        {
+          "portuguese": "Das confirmações",
+          "english": "Of the confirmations"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "A tradução",
+          "english": "The translation"
+        },
+        {
+          "portuguese": "A explicação",
+          "english": "The explanation"
+        },
+        {
+          "portuguese": "Por favor",
+          "english": "Please"
+        },
+        {
+          "portuguese": "Dar",
+          "english": "To give"
+        },
+        {
+          "portuguese": "A educação",
+          "english": "The education"
+        },
+        {
+          "portuguese": "A solução",
+          "english": "The solution"
+        },
+        {
+          "portuguese": "A interpretação",
+          "english": "The interpretation"
+        },
+        {
+          "portuguese": "A declaração",
+          "english": "The declaration"
+        },
+        {
+          "portuguese": "A apresentação",
+          "english": "The presentation"
+        },
+        {
+          "portuguese": "Quero uma tradução, por favor",
+          "english": "I want a translation, please"
+        },
+        {
+          "portuguese": "Preciso duma explicação",
+          "english": "I need an explanation"
+        },
+        {
+          "portuguese": "Dar algo para o senhor",
+          "english": "To give something for you"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Formar",
+          "english": "To form"
+        },
+        {
+          "portuguese": "Confirmar",
+          "english": "To confirm"
+        },
+        {
+          "portuguese": "A formação",
+          "english": "The formation"
+        },
+        {
+          "portuguese": "A impressão",
+          "english": "The impression"
+        },
+        {
+          "portuguese": "Tenho uma impressão",
+          "english": "I have an impression"
+        },
+        {
+          "portuguese": "Falar",
+          "english": "To speak"
+        },
+        {
+          "portuguese": "Sair",
+          "english": "To leave/to go out"
+        },
+        {
+          "portuguese": "Pôr",
+          "english": "To put"
+        },
+        {
+          "portuguese": "Informar",
+          "english": "To inform"
+        },
+        {
+          "portuguese": "Organizar",
+          "english": "To organize"
+        },
+        {
+          "portuguese": "Apresentar",
+          "english": "To present"
+        },
+        {
+          "portuguese": "Declarar",
+          "english": "To declare"
+        },
+        {
+          "portuguese": "Organizar uma reserva",
+          "english": "To organize a reservation"
+        },
+        {
+          "portuguese": "Quero formar algo",
+          "english": "I want to form something"
+        },
+        {
+          "portuguese": "Preciso de organizar",
+          "english": "I need to organize"
+        },
+        {
+          "portuguese": "A apresentação é importante",
+          "english": "The presentation is important"
+        },
+        {
+          "portuguese": "Quero confirmar a situação",
+          "english": "I want to confirm the situation"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Aqui",
+          "english": "Here"
+        },
+        {
+          "portuguese": "Portugal",
+          "english": "Portugal"
+        },
+        {
+          "portuguese": "Brasil",
+          "english": "Brazil"
+        },
+        {
+          "portuguese": "Funchal",
+          "english": "Funchal"
+        },
+        {
+          "portuguese": "Miguel",
+          "english": "Miguel"
+        },
+        {
+          "portuguese": "Possível",
+          "english": "Possible"
+        },
+        {
+          "portuguese": "Provável",
+          "english": "Probable"
+        },
+        {
+          "portuguese": "Vê-los",
+          "english": "To see them"
+        },
+        {
+          "portuguese": "Vê-las",
+          "english": "To see them"
+        },
+        {
+          "portuguese": "Vê-lo",
+          "english": "To see you/him/it"
+        },
+        {
+          "portuguese": "Vê-la",
+          "english": "To see you/her/it"
+        },
+        {
+          "portuguese": "Ver-me",
+          "english": "To see me"
+        },
+        {
+          "portuguese": "Quero vê-los aqui",
+          "english": "I want to see them here"
+        },
+        {
+          "portuguese": "Vital",
+          "english": "Vital"
+        },
+        {
+          "portuguese": "Total",
+          "english": "Total"
+        },
+        {
+          "portuguese": "Portugal é bonito",
+          "english": "Portugal is pretty"
+        },
+        {
+          "portuguese": "Quero vê-los em Brasil",
+          "english": "I want to see them in Brazil"
+        },
+        {
+          "portuguese": "Vê-la esta noite",
+          "english": "To see you tonight"
+        },
+        {
+          "portuguese": "Quero ver-me no restaurante",
+          "english": "I want to see myself in the restaurant"
+        },
+        {
+          "portuguese": "Vê-los em Portugal",
+          "english": "To see them in Portugal"
+        },
+        {
+          "portuguese": "Quero vê-las em Funchal",
+          "english": "I want to see them in Funchal"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Compreender",
+          "english": "To understand"
+        },
+        {
+          "portuguese": "Dizer",
+          "english": "To say/to tell"
+        },
+        {
+          "portuguese": "Dizer-lhe",
+          "english": "To tell you"
+        },
+        {
+          "portuguese": "Quero compreender",
+          "english": "I want to understand"
+        },
+        {
+          "portuguese": "Não posso compreender",
+          "english": "I can't understand"
+        },
+        {
+          "portuguese": "Não posso compreender isto",
+          "english": "I can't understand this"
+        },
+        {
+          "portuguese": "Quero dizer-lhe algo",
+          "english": "I want to tell you something"
+        },
+        {
+          "portuguese": "Dizer-lhe a situação",
+          "english": "To tell you the situation"
+        },
+        {
+          "portuguese": "Quero compreender a diferença",
+          "english": "I want to understand the difference"
+        },
+        {
+          "portuguese": "Não posso compreender a explicação",
+          "english": "I can't understand the explanation"
+        },
+        {
+          "portuguese": "Dizer-me a confirmação",
+          "english": "To tell me the confirmation"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Isto",
+          "english": "This"
+        },
+        {
+          "portuguese": "Comprar",
+          "english": "To buy"
+        },
+        {
+          "portuguese": "Quero comprar isto",
+          "english": "I want to buy this"
+        },
+        {
+          "portuguese": "Não quero comprá-lo",
+          "english": "I don't want to buy it"
+        },
+        {
+          "portuguese": "Quero comprar algo para o senhor",
+          "english": "I want to buy something for you"
+        },
+        {
+          "portuguese": "Não quero comprar isto porque é muito caro",
+          "english": "I don't want to buy this because it is very expensive"
+        },
+        {
+          "portuguese": "Não posso comprar isto agora",
+          "english": "I can't buy this now"
+        },
+        {
+          "portuguese": "Quero comprar algo hoje",
+          "english": "I want to buy something today"
+        },
+        {
+          "portuguese": "Isto é muito importante",
+          "english": "This is very important"
+        }
+      ]
+    },
+    "3": {
+      "2": [
+        {
+          "portuguese": "Caro",
+          "english": "Expensive - masculine"
+        },
+        {
+          "portuguese": "Cara",
+          "english": "Expensive - feminine"
+        },
+        {
+          "portuguese": "É muito caro",
+          "english": "It is very expensive"
+        },
+        {
+          "portuguese": "A casa é muito cara",
+          "english": "The house is very expensive"
+        },
+        {
+          "portuguese": "Ter",
+          "english": "To have"
+        },
+        {
+          "portuguese": "O restaurante é muito caro",
+          "english": "The restaurant is very expensive"
+        },
+        {
+          "portuguese": "O restaurante é caro mas é muito bom",
+          "english": "The restaurant is expensive but it is very good"
+        },
+        {
+          "portuguese": "A casa não é muito cara",
+          "english": "The house is not very expensive"
+        },
+        {
+          "portuguese": "É muito cara para mim",
+          "english": "It is very expensive for me"
+        },
+        {
+          "portuguese": "Ter algo",
+          "english": "To have something"
+        },
+        {
+          "portuguese": "Quero ter uma casa",
+          "english": "I want to have a house"
+        },
+        {
+          "portuguese": "Não é caro",
+          "english": "It is not expensive"
+        },
+        {
+          "portuguese": "Tem algo muito caro",
+          "english": "You have something very expensive"
+        },
+        {
+          "portuguese": "A reserva é muito cara",
+          "english": "The reservation is very expensive"
+        },
+        {
+          "portuguese": "Não quero ter algo caro",
+          "english": "I don't want to have something expensive"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Ter de",
+          "english": "To have to/must"
+        },
+        {
+          "portuguese": "Tenho de",
+          "english": "I have to/I must"
+        },
+        {
+          "portuguese": "Tenho de o fazer",
+          "english": "I have to do it"
+        },
+        {
+          "portuguese": "Tem de",
+          "english": "You have to/must"
+        },
+        {
+          "portuguese": "Daqui a pouco",
+          "english": "Soon"
+        },
+        {
+          "portuguese": "Tenho de sair agora",
+          "english": "I have to go out now"
+        },
+        {
+          "portuguese": "Tenho de comer algo",
+          "english": "I have to eat something"
+        },
+        {
+          "portuguese": "Tenho de compreender",
+          "english": "I have to understand"
+        },
+        {
+          "portuguese": "Tem de fazer a reserva",
+          "english": "You have to make the reservation"
+        },
+        {
+          "portuguese": "Tenho de o ver",
+          "english": "I have to see it"
+        },
+        {
+          "portuguese": "Tem de sair daqui a pouco",
+          "english": "You have to go out soon"
+        },
+        {
+          "portuguese": "Não tenho de fazer isto",
+          "english": "I don't have to do this"
+        },
+        {
+          "portuguese": "Tenho de comprá-lo agora",
+          "english": "I have to buy it now"
+        },
+        {
+          "portuguese": "Tem de comer algo",
+          "english": "You have to eat something"
+        },
+        {
+          "portuguese": "Tenho de ter uma confirmação",
+          "english": "I have to have a confirmation"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Político",
+          "english": "Political"
+        },
+        {
+          "portuguese": "Económico",
+          "english": "Economic"
+        },
+        {
+          "portuguese": "Lógico",
+          "english": "Logical"
+        },
+        {
+          "portuguese": "Prático",
+          "english": "Practical"
+        },
+        {
+          "portuguese": "É lógico",
+          "english": "It is logical"
+        },
+        {
+          "portuguese": "É muito prático",
+          "english": "It is very practical"
+        },
+        {
+          "portuguese": "José",
+          "english": "José"
+        },
+        {
+          "portuguese": "Canadá",
+          "english": "Canada"
+        },
+        {
+          "portuguese": "Histórico",
+          "english": "Historical"
+        },
+        {
+          "portuguese": "Automático",
+          "english": "Automatic"
+        },
+        {
+          "portuguese": "Dramático",
+          "english": "Dramatic"
+        },
+        {
+          "portuguese": "Fantástico",
+          "english": "Fantastic"
+        },
+        {
+          "portuguese": "Característico",
+          "english": "Characteristic"
+        },
+        {
+          "portuguese": "Doméstico",
+          "english": "Domestic"
+        },
+        {
+          "portuguese": "Específico",
+          "english": "Specific"
+        },
+        {
+          "portuguese": "É muito prático para mim",
+          "english": "It is very practical for me"
+        },
+        {
+          "portuguese": "É económico e é lógico",
+          "english": "It is economic and it is logical"
+        },
+        {
+          "portuguese": "Não é muito político",
+          "english": "It is not very political"
+        },
+        {
+          "portuguese": "É fantástico",
+          "english": "It is fantastic"
+        },
+        {
+          "portuguese": "A situação é muito específica",
+          "english": "The situation is very specific"
+        },
+        {
+          "portuguese": "É característico",
+          "english": "It is characteristic"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "A situação política",
+          "english": "The political situation"
+        },
+        {
+          "portuguese": "A universidade",
+          "english": "The university"
+        },
+        {
+          "portuguese": "A cidade",
+          "english": "The city"
+        },
+        {
+          "portuguese": "A sociedade",
+          "english": "The society"
+        },
+        {
+          "portuguese": "Em Portugal",
+          "english": "In Portugal"
+        },
+        {
+          "portuguese": "A Itália",
+          "english": "Italy"
+        },
+        {
+          "portuguese": "O Brasil",
+          "english": "Brazil"
+        },
+        {
+          "portuguese": "No Brasil",
+          "english": "In Brazil"
+        },
+        {
+          "portuguese": "Na Itália",
+          "english": "In Italy"
+        },
+        {
+          "portuguese": "A realidade",
+          "english": "The reality"
+        },
+        {
+          "portuguese": "A possibilidade",
+          "english": "The possibility"
+        },
+        {
+          "portuguese": "A necessidade",
+          "english": "The necessity"
+        },
+        {
+          "portuguese": "A qualidade",
+          "english": "The quality"
+        },
+        {
+          "portuguese": "A identidade",
+          "english": "The identity"
+        },
+        {
+          "portuguese": "A comunidade",
+          "english": "The community"
+        },
+        {
+          "portuguese": "A capacidade",
+          "english": "The capacity"
+        },
+        {
+          "portuguese": "A curiosidade",
+          "english": "The curiosity"
+        },
+        {
+          "portuguese": "A situação económica",
+          "english": "The economic situation"
+        },
+        {
+          "portuguese": "Na cidade",
+          "english": "In the city"
+        },
+        {
+          "portuguese": "A universidade é importante",
+          "english": "The university is important"
+        },
+        {
+          "portuguese": "No Brasil e na Itália",
+          "english": "In Brazil and in Italy"
+        },
+        {
+          "portuguese": "A qualidade é boa",
+          "english": "The quality is good"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Se possível",
+          "english": "If possible"
+        },
+        {
+          "portuguese": "Se não é muito caro",
+          "english": "If it is not very expensive"
+        },
+        {
+          "portuguese": "Estou",
+          "english": "I am"
+        },
+        {
+          "portuguese": "Ocupado",
+          "english": "Busy - masculine"
+        },
+        {
+          "portuguese": "Ocupada",
+          "english": "Busy - feminine"
+        },
+        {
+          "portuguese": "Estou ocupado",
+          "english": "I am busy"
+        },
+        {
+          "portuguese": "Cansado",
+          "english": "Tired - masculine"
+        },
+        {
+          "portuguese": "Cansada",
+          "english": "Tired - feminine"
+        },
+        {
+          "portuguese": "Estou cansado",
+          "english": "I am tired"
+        },
+        {
+          "portuguese": "Se é possível",
+          "english": "If it is possible"
+        },
+        {
+          "portuguese": "Estou muito cansado",
+          "english": "I am very tired"
+        },
+        {
+          "portuguese": "Não estou ocupado",
+          "english": "I am not busy"
+        },
+        {
+          "portuguese": "Estou ocupado agora",
+          "english": "I am busy now"
+        },
+        {
+          "portuguese": "Se não é muito cara",
+          "english": "If it is not very expensive"
+        },
+        {
+          "portuguese": "Estou cansada esta noite",
+          "english": "I am tired tonight"
+        },
+        {
+          "portuguese": "Se é lógico",
+          "english": "If it is logical"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Está",
+          "english": "You are"
+        },
+        {
+          "portuguese": "A casa",
+          "english": "The house"
+        },
+        {
+          "portuguese": "Esta casa",
+          "english": "This house"
+        },
+        {
+          "portuguese": "Estar",
+          "english": "To be"
+        },
+        {
+          "portuguese": "O dia",
+          "english": "The day"
+        },
+        {
+          "portuguese": "Bom dia",
+          "english": "Good day/Hello"
+        },
+        {
+          "portuguese": "Esta casa é muito bonita",
+          "english": "This house is very pretty"
+        },
+        {
+          "portuguese": "Esta reserva está pronta",
+          "english": "This reservation is ready"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Vou",
+          "english": "I am going"
+        },
+        {
+          "portuguese": "Vou estar",
+          "english": "I am going to be"
+        },
+        {
+          "portuguese": "Vou estar aqui",
+          "english": "I am going to be here"
+        },
+        {
+          "portuguese": "Não vou comprá-lo",
+          "english": "I am not going to buy it"
+        },
+        {
+          "portuguese": "Não o vou comprar",
+          "english": "I am not going to buy it"
+        },
+        {
+          "portuguese": "Vou comer algo",
+          "english": "I am going to eat something"
+        },
+        {
+          "portuguese": "Vou comprar a casa",
+          "english": "I am going to buy the house"
+        },
+        {
+          "portuguese": "Não vou estar aqui",
+          "english": "I am not going to be here"
+        },
+        {
+          "portuguese": "Vou fazê-lo daqui a pouco",
+          "english": "I am going to do it soon"
+        },
+        {
+          "portuguese": "Não o vou ver",
+          "english": "I am not going to see it"
+        },
+        {
+          "portuguese": "Vou comer esta noite",
+          "english": "I am going to eat tonight"
+        },
+        {
+          "portuguese": "Não vou jantar",
+          "english": "I am not going to have dinner"
+        },
+        {
+          "portuguese": "Vou estar muito ocupado",
+          "english": "I am going to be very busy"
+        },
+        {
+          "portuguese": "Vou saber amanhã",
+          "english": "I am going to know tomorrow"
+        },
+        {
+          "portuguese": "Não vou estar cansado",
+          "english": "I am not going to be tired"
+        },
+        {
+          "portuguese": "Vou ter uma reserva",
+          "english": "I am going to have a reservation"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Tarde",
+          "english": "Late"
+        },
+        {
+          "portuguese": "Mais ou menos",
+          "english": "More or less"
+        },
+        {
+          "portuguese": "Mais tarde",
+          "english": "Later"
+        },
+        {
+          "portuguese": "A tarde",
+          "english": "The afternoon/evening"
+        },
+        {
+          "portuguese": "Boa tarde",
+          "english": "Good afternoon/evening"
+        },
+        {
+          "portuguese": "Vou estar aqui mais tarde",
+          "english": "I am going to be here later"
+        },
+        {
+          "portuguese": "Mais tarde vou estar aqui",
+          "english": "Later I am going to be here"
+        },
+        {
+          "portuguese": "Está muito tarde",
+          "english": "It is very late"
+        },
+        {
+          "portuguese": "Vou ligar mais tarde",
+          "english": "I am going to call later"
+        },
+        {
+          "portuguese": "Não é muito tarde",
+          "english": "It is not very late"
+        },
+        {
+          "portuguese": "Mais ou menos cansado",
+          "english": "More or less tired"
+        },
+        {
+          "portuguese": "A tarde é bonita",
+          "english": "The afternoon is pretty"
+        },
+        {
+          "portuguese": "Está tarde para mim",
+          "english": "It is late for me"
+        },
+        {
+          "portuguese": "Vou jantar mais tarde",
+          "english": "I am going to have dinner later"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Ligar",
+          "english": "To call/to ring"
+        },
+        {
+          "portuguese": "Ligar-lhe",
+          "english": "To call you"
+        },
+        {
+          "portuguese": "Vou ligar-lhe",
+          "english": "I am going to call you"
+        },
+        {
+          "portuguese": "A hora",
+          "english": "The hour"
+        },
+        {
+          "portuguese": "Vou ligar-lhe daqui a pouco",
+          "english": "I am going to call you soon"
+        },
+        {
+          "portuguese": "Vou ligar esta noite",
+          "english": "I am going to call tonight"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "portuguese": "Vai",
+          "english": "You/he/she/it is going to"
+        },
+        {
+          "portuguese": "Ela vai fazê-lo",
+          "english": "She is going to do it"
+        },
+        {
+          "portuguese": "Ele vai fazê-lo",
+          "english": "He is going to do it"
+        },
+        {
+          "portuguese": "O senhor vai fazê-lo",
+          "english": "You are going to do it"
+        },
+        {
+          "portuguese": "A senhora vai fazê-lo",
+          "english": "You are going to do it"
+        },
+        {
+          "portuguese": "Ele",
+          "english": "He"
+        },
+        {
+          "portuguese": "Ela",
+          "english": "She"
+        },
+        {
+          "portuguese": "Vai comprá-lo amanhã",
+          "english": "You are going to buy it tomorrow"
+        },
+        {
+          "portuguese": "Ela vai estar aqui",
+          "english": "She is going to be here"
+        },
+        {
+          "portuguese": "Ele vai saber",
+          "english": "He is going to know"
+        },
+        {
+          "portuguese": "A senhora vai fazer a reserva",
+          "english": "You are going to make the reservation"
+        },
+        {
+          "portuguese": "Ela vai vê-lo esta noite",
+          "english": "She is going to see it tonight"
+        },
+        {
+          "portuguese": "Ele vai estar muito cansado",
+          "english": "He is going to be very tired"
+        },
+        {
+          "portuguese": "O senhor vai compreender",
+          "english": "You are going to understand"
+        },
+        {
+          "portuguese": "A senhora vai ter uma casa",
+          "english": "You are going to have a house"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Pronto",
+          "english": "Ready - masculine"
+        },
+        {
+          "portuguese": "Pronta",
+          "english": "Ready - feminine"
+        },
+        {
+          "portuguese": "Tudo",
+          "english": "All/Everything"
+        },
+        {
+          "portuguese": "Amanhã",
+          "english": "Tomorrow"
+        },
+        {
+          "portuguese": "Tudo vai estar pronto amanhã",
+          "english": "Everything is going to be ready tomorrow"
+        },
+        {
+          "portuguese": "Vai estar tudo pronto amanhã",
+          "english": "It is going to be all ready tomorrow"
+        },
+        {
+          "portuguese": "Vou estar pronto daqui a pouco",
+          "english": "I am going to be ready soon"
+        },
+        {
+          "portuguese": "Vai estar tudo pronto daqui a pouco",
+          "english": "Everything is going to be ready soon"
+        },
+        {
+          "portuguese": "Tudo vai estar muito bom",
+          "english": "Everything is going to be very good"
+        },
+        {
+          "portuguese": "Estou pronta para jantar",
+          "english": "I am ready to have dinner"
+        },
+        {
+          "portuguese": "Tudo vai estar aqui",
+          "english": "Everything is going to be here"
+        },
+        {
+          "portuguese": "Não está tudo pronto",
+          "english": "Everything is not ready"
+        },
+        {
+          "portuguese": "Amanhã vai estar tudo diferente",
+          "english": "Tomorrow everything is going to be different"
+        },
+        {
+          "portuguese": "Tudo está muito caro",
+          "english": "Everything is very expensive"
+        },
+        {
+          "portuguese": "Tudo vai estar bom",
+          "english": "Everything is going to be good"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "É possível",
+          "english": "It is possible"
+        },
+        {
+          "portuguese": "Está pronto",
+          "english": "It is ready"
+        },
+        {
+          "portuguese": "Sou",
+          "english": "I am"
+        },
+        {
+          "portuguese": "Inglês",
+          "english": "English - masculine/language"
+        },
+        {
+          "portuguese": "Inglesa",
+          "english": "English - feminine"
+        },
+        {
+          "portuguese": "Português",
+          "english": "Portuguese - masculine/language"
+        },
+        {
+          "portuguese": "Portuguesa",
+          "english": "Portuguese - feminine"
+        },
+        {
+          "portuguese": "Sou inglês",
+          "english": "I am English"
+        },
+        {
+          "portuguese": "Sou portuguesa",
+          "english": "I am Portuguese"
+        },
+        {
+          "portuguese": "O Paulo",
+          "english": "Paulo"
+        },
+        {
+          "portuguese": "A Maria",
+          "english": "Maria"
+        },
+        {
+          "portuguese": "Sei",
+          "english": "I know"
+        },
+        {
+          "portuguese": "Não sei",
+          "english": "I don't know"
+        },
+        {
+          "portuguese": "Sou português",
+          "english": "I am Portuguese"
+        },
+        {
+          "portuguese": "A Maria está aqui",
+          "english": "Maria is here"
+        },
+        {
+          "portuguese": "O Paulo é inglês",
+          "english": "Paulo is English"
+        },
+        {
+          "portuguese": "Não sei onde está",
+          "english": "I don't know where it is"
+        },
+        {
+          "portuguese": "É possível mas não está pronto",
+          "english": "It is possible but it is not ready"
+        },
+        {
+          "portuguese": "Sou portuguesa e estou cansada",
+          "english": "I am Portuguese and I am tired"
+        },
+        {
+          "portuguese": "Sei que é importante",
+          "english": "I know that it is important"
+        },
+        {
+          "portuguese": "Está pronto mas não é bom",
+          "english": "It is ready but it is not good"
+        },
+        {
+          "portuguese": "Não sou inglês",
+          "english": "I am not English"
+        },
+        {
+          "portuguese": "A casa é bonita mas está muito cara",
+          "english": "The house is pretty but it is very expensive"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Doente",
+          "english": "Ill"
+        },
+        {
+          "portuguese": "Estou doente",
+          "english": "I am ill"
+        },
+        {
+          "portuguese": "Bonito",
+          "english": "Pretty - masculine"
+        },
+        {
+          "portuguese": "Bonita",
+          "english": "Pretty - feminine"
+        },
+        {
+          "portuguese": "A casa é bonita",
+          "english": "The house is pretty"
+        },
+        {
+          "portuguese": "A preparação",
+          "english": "The preparation"
+        },
+        {
+          "portuguese": "Preparar",
+          "english": "To prepare"
+        },
+        {
+          "portuguese": "Muito obrigado",
+          "english": "Thank you very much - masculine speaker"
+        },
+        {
+          "portuguese": "Muito obrigada",
+          "english": "Thank you very much - feminine speaker"
+        },
+        {
+          "portuguese": "A casa é muito bonita",
+          "english": "The house is very pretty"
+        },
+        {
+          "portuguese": "Estou doente e cansado",
+          "english": "I am ill and tired"
+        },
+        {
+          "portuguese": "A preparação é importante",
+          "english": "The preparation is important"
+        },
+        {
+          "portuguese": "Muito obrigado pela reserva",
+          "english": "Thank you very much for the reservation"
+        },
+        {
+          "portuguese": "Tenho de preparar algo",
+          "english": "I have to prepare something"
+        },
+        {
+          "portuguese": "O restaurante é bonito",
+          "english": "The restaurant is pretty"
+        },
+        {
+          "portuguese": "A preparação está pronta",
+          "english": "The preparation is ready"
+        },
+        {
+          "portuguese": "Muito obrigada por isto",
+          "english": "Thank you very much for this"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Com",
+          "english": "With"
+        },
+        {
+          "portuguese": "Com o senhor",
+          "english": "With you"
+        },
+        {
+          "portuguese": "Com a senhora",
+          "english": "With you"
+        },
+        {
+          "portuguese": "Com ele",
+          "english": "With him"
+        },
+        {
+          "portuguese": "Com ela",
+          "english": "With her"
+        },
+        {
+          "portuguese": "Comigo",
+          "english": "With me"
+        },
+        {
+          "portuguese": "Vir",
+          "english": "To come"
+        },
+        {
+          "portuguese": "Vou estar com ela amanhã",
+          "english": "I am going to be with her tomorrow"
+        },
+        {
+          "portuguese": "Vir aqui",
+          "english": "To come here"
+        },
+        {
+          "portuguese": "Vou vir com a senhora",
+          "english": "I am going to come with you"
+        },
+        {
+          "portuguese": "Vou vir comigo",
+          "english": "I am going to come with me"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Preparar: preparo",
+          "english": "To prepare: I prepare"
+        },
+        {
+          "portuguese": "Comprar: compro",
+          "english": "To buy: I buy"
+        },
+        {
+          "portuguese": "Falar: falo",
+          "english": "To speak: I speak"
+        },
+        {
+          "portuguese": "Compreender: compreendo",
+          "english": "To understand: I understand"
+        },
+        {
+          "portuguese": "Vender: vendo",
+          "english": "To sell: I sell"
+        },
+        {
+          "portuguese": "Sou",
+          "english": "I am"
+        },
+        {
+          "portuguese": "Estou",
+          "english": "I am"
+        },
+        {
+          "portuguese": "Vou",
+          "english": "I go"
+        },
+        {
+          "portuguese": "Dou",
+          "english": "I give"
+        },
+        {
+          "portuguese": "Sei",
+          "english": "I know"
+        },
+        {
+          "portuguese": "Falo muito",
+          "english": "I speak a lot"
+        },
+        {
+          "portuguese": "Compreendo a situação",
+          "english": "I understand the situation"
+        },
+        {
+          "portuguese": "Vendo a casa",
+          "english": "I sell the house"
+        },
+        {
+          "portuguese": "Dou algo para o senhor",
+          "english": "I give something for you"
+        },
+        {
+          "portuguese": "Não vou hoje",
+          "english": "I don't go today"
+        },
+        {
+          "portuguese": "Estou aqui todos os dias",
+          "english": "I am here every day"
+        },
+        {
+          "portuguese": "Sei onde está",
+          "english": "I know where it is"
+        },
+        {
+          "portuguese": "Preparo a reserva",
+          "english": "I prepare the reservation"
+        },
+        {
+          "portuguese": "Compro muito",
+          "english": "I buy a lot"
+        },
+        {
+          "portuguese": "Não sei quando",
+          "english": "I don't know when"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Compro-o",
+          "english": "I buy it/I am buying it/I do buy it"
+        },
+        {
+          "portuguese": "Vendo-a",
+          "english": "I sell it/I am selling it/I do sell it"
+        },
+        {
+          "portuguese": "Falo português",
+          "english": "I speak Portuguese"
+        },
+        {
+          "portuguese": "Vendo-a amanhã",
+          "english": "I am selling it tomorrow"
+        },
+        {
+          "portuguese": "Compro-o porque é bom",
+          "english": "I buy it because it is good"
+        },
+        {
+          "portuguese": "Falo português todos os dias",
+          "english": "I speak Portuguese every day"
+        },
+        {
+          "portuguese": "Não o compro",
+          "english": "I don't buy it"
+        },
+        {
+          "portuguese": "Vendo-o porque é muito caro",
+          "english": "I am selling it because it is very expensive"
+        },
+        {
+          "portuguese": "Compreendo-a",
+          "english": "I understand it"
+        },
+        {
+          "portuguese": "Faço-o agora",
+          "english": "I am doing it now"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Escrever",
+          "english": "To write"
+        },
+        {
+          "portuguese": "Escrevo",
+          "english": "I write"
+        },
+        {
+          "portuguese": "Todos os dias",
+          "english": "Every day"
+        },
+        {
+          "portuguese": "Escrevo todos os dias",
+          "english": "I write every day"
+        },
+        {
+          "portuguese": "Comprar: compra",
+          "english": "To buy: you/he/she/it buys"
+        },
+        {
+          "portuguese": "Preparar: prepara",
+          "english": "To prepare: you/he/she/it prepares"
+        },
+        {
+          "portuguese": "Falar: fala",
+          "english": "To speak: you/he/she/it speaks"
+        },
+        {
+          "portuguese": "Vender: vende",
+          "english": "To sell: you/he/she/it sells"
+        },
+        {
+          "portuguese": "Compreender: compreende",
+          "english": "To understand: you/he/she/it understands"
+        },
+        {
+          "portuguese": "Escrever: escreve",
+          "english": "To write: you/he/she/it writes"
+        },
+        {
+          "portuguese": "Partir: parte",
+          "english": "To leave: you/he/she/it leaves"
+        },
+        {
+          "portuguese": "Escrevo muito",
+          "english": "I write a lot"
+        },
+        {
+          "portuguese": "Parte amanhã",
+          "english": "You/he/she/it leaves tomorrow"
+        },
+        {
+          "portuguese": "Fala muito",
+          "english": "You/he/she/it speaks a lot"
+        },
+        {
+          "portuguese": "Vende muito",
+          "english": "You/he/she/it sells a lot"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Saber: sabe",
+          "english": "To know: you/he/she/it knows"
+        },
+        {
+          "portuguese": "Fazer: faz",
+          "english": "To do: you/he/she/it does"
+        },
+        {
+          "portuguese": "Querer: quer",
+          "english": "To want: you/he/she/it wants"
+        },
+        {
+          "portuguese": "Ter: tem",
+          "english": "To have: you/he/she/it has"
+        },
+        {
+          "portuguese": "Sair: sai",
+          "english": "To leave: you/he/she/it leaves"
+        },
+        {
+          "portuguese": "Vai",
+          "english": "You/he/she/it go"
+        }
+      ]
+    },
+    "5": {
+      "1": [
+        {
+          "portuguese": "Estou a sair",
+          "english": "I am going out"
+        },
+        {
+          "portuguese": "Estou a escrever",
+          "english": "I am writing"
+        },
+        {
+          "portuguese": "Diz",
+          "english": "You/he/she/it says"
+        },
+        {
+          "portuguese": "Querer dizer",
+          "english": "To mean/to want to say"
+        },
+        {
+          "portuguese": "Isto",
+          "english": "This"
+        },
+        {
+          "portuguese": "Estou a preparar algo",
+          "english": "I am preparing something"
+        },
+        {
+          "portuguese": "Estou a fazer a preparação",
+          "english": "I am doing the preparation"
+        },
+        {
+          "portuguese": "Estou a vender a casa",
+          "english": "I am selling the house"
+        },
+        {
+          "portuguese": "Estou a compreender",
+          "english": "I am understanding"
+        },
+        {
+          "portuguese": "Isto quer dizer que está pronto",
+          "english": "This means that it is ready"
+        },
+        {
+          "portuguese": "Estou a comer",
+          "english": "I am eating"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Toda a gente",
+          "english": "Everyone/Everybody"
+        },
+        {
+          "portuguese": "Gostar de",
+          "english": "To like"
+        },
+        {
+          "portuguese": "Gosto de",
+          "english": "I like"
+        },
+        {
+          "portuguese": "Gosto dele",
+          "english": "I like it/him"
+        },
+        {
+          "portuguese": "Gosto dela",
+          "english": "I like it/her"
+        },
+        {
+          "portuguese": "Gosto de vê-lo",
+          "english": "I like to see you/it/him"
+        },
+        {
+          "portuguese": "Gosto muito",
+          "english": "I like it very much"
+        },
+        {
+          "portuguese": "Gosto muito de escrever",
+          "english": "I like to write very much"
+        },
+        {
+          "portuguese": "Toda a gente gosta dele",
+          "english": "Everyone likes it"
+        },
+        {
+          "portuguese": "Gosto de jantar",
+          "english": "I like to have dinner"
+        },
+        {
+          "portuguese": "Não gosto de vê-la",
+          "english": "I don't like to see it"
+        },
+        {
+          "portuguese": "Toda a gente compreende",
+          "english": "Everyone understands"
+        },
+        {
+          "portuguese": "Gosto muito da casa",
+          "english": "I like the house very much"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Fala: falam",
+          "english": "Speaks: they speak"
+        },
+        {
+          "portuguese": "Compra: compram",
+          "english": "Buys: they buy"
+        },
+        {
+          "portuguese": "Pode: podem",
+          "english": "Can: they can"
+        },
+        {
+          "portuguese": "Compreende: compreendem",
+          "english": "Understands: they understand"
+        },
+        {
+          "portuguese": "Sabe: sabem",
+          "english": "Knows: they know"
+        },
+        {
+          "portuguese": "Compram muito",
+          "english": "They buy a lot"
+        },
+        {
+          "portuguese": "Falam português",
+          "english": "They speak Portuguese"
+        },
+        {
+          "portuguese": "Sabem onde está",
+          "english": "They know where it is"
+        },
+        {
+          "portuguese": "Compreendem a situação",
+          "english": "They understand the situation"
+        },
+        {
+          "portuguese": "Falam todos os dias",
+          "english": "They speak every day"
+        },
+        {
+          "portuguese": "Podem estar aqui",
+          "english": "They can be here"
+        },
+        {
+          "portuguese": "Sabem quando",
+          "english": "They know when"
+        },
+        {
+          "portuguese": "Compram a casa",
+          "english": "They buy the house"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Faz: fazem",
+          "english": "Does: they do"
+        },
+        {
+          "portuguese": "Diz: dizem",
+          "english": "Says: they say"
+        },
+        {
+          "portuguese": "Quer: querem",
+          "english": "Wants: they want"
+        },
+        {
+          "portuguese": "Sai: saiem",
+          "english": "Leaves: they leave"
+        },
+        {
+          "portuguese": "Tem: têm",
+          "english": "Has: they have"
+        },
+        {
+          "portuguese": "Fazem-no",
+          "english": "They are doing it"
+        },
+        {
+          "portuguese": "Vendem-nas",
+          "english": "They are selling them"
+        },
+        {
+          "portuguese": "Dizem que é bom",
+          "english": "They say that it is good"
+        },
+        {
+          "portuguese": "Fazem a reserva",
+          "english": "They do the reservation"
+        },
+        {
+          "portuguese": "Querem vir",
+          "english": "They want to come"
+        },
+        {
+          "portuguese": "Têm fome",
+          "english": "They have hunger"
+        },
+        {
+          "portuguese": "Saiem amanhã",
+          "english": "They leave tomorrow"
+        },
+        {
+          "portuguese": "Têm a casa",
+          "english": "They have the house"
+        },
+        {
+          "portuguese": "Vendem-no amanhã",
+          "english": "They are selling it tomorrow"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Fala: falas",
+          "english": "Speaks: you speak"
+        },
+        {
+          "portuguese": "Está: estás",
+          "english": "Are: you are"
+        },
+        {
+          "portuguese": "Vende: vendes",
+          "english": "Sells: you sell"
+        },
+        {
+          "portuguese": "Compreende: compreendes",
+          "english": "Understands: you understand"
+        },
+        {
+          "portuguese": "Faz: fazes",
+          "english": "Does: you do"
+        },
+        {
+          "portuguese": "Este livro",
+          "english": "This book"
+        },
+        {
+          "portuguese": "Esta casa",
+          "english": "This house"
+        },
+        {
+          "portuguese": "Estes",
+          "english": "These - masculine"
+        },
+        {
+          "portuguese": "Estas",
+          "english": "These - feminine"
+        },
+        {
+          "portuguese": "Este restaurante é bom",
+          "english": "This restaurant is good"
+        },
+        {
+          "portuguese": "Esta cidade é bonita",
+          "english": "This city is pretty"
+        },
+        {
+          "portuguese": "Estes dias são importantes",
+          "english": "These days are important"
+        },
+        {
+          "portuguese": "Estas casas são caras",
+          "english": "These houses are expensive"
+        }
+      ],
+      "8": [],
+      "9": [
+        {
+          "portuguese": "Falar: falamos",
+          "english": "To speak: we speak"
+        },
+        {
+          "portuguese": "Comer: comemos",
+          "english": "To eat: we eat"
+        },
+        {
+          "portuguese": "Sair: saímos",
+          "english": "To leave: we leave"
+        },
+        {
+          "portuguese": "Vir: vimos",
+          "english": "To come: we come"
+        },
+        {
+          "portuguese": "Vender: vendemos",
+          "english": "To sell: we sell"
+        },
+        {
+          "portuguese": "Escrever: escrevemos",
+          "english": "To write: we write"
+        },
+        {
+          "portuguese": "Ter: temos",
+          "english": "To have: we have"
+        },
+        {
+          "portuguese": "Fazer: fazemos",
+          "english": "To do: we do"
+        },
+        {
+          "portuguese": "Fazemo-lo",
+          "english": "We do it"
+        },
+        {
+          "portuguese": "Comemos todos os dias",
+          "english": "We eat every day"
+        },
+        {
+          "portuguese": "Vendemos a casa",
+          "english": "We sell the house"
+        },
+        {
+          "portuguese": "Saímos amanhã",
+          "english": "We leave tomorrow"
+        },
+        {
+          "portuguese": "Vimos aqui",
+          "english": "We come here"
+        },
+        {
+          "portuguese": "Escrevemos muito",
+          "english": "We write a lot"
+        },
+        {
+          "portuguese": "Temos fome",
+          "english": "We have hunger"
+        },
+        {
+          "portuguese": "Fazemos a reserva",
+          "english": "We make the reservation"
+        },
+        {
+          "portuguese": "Não vendemos isto",
+          "english": "We don't sell this"
+        },
+        {
+          "portuguese": "Fazemo-la",
+          "english": "We do it"
+        },
+        {
+          "portuguese": "Escrevemo-lo",
+          "english": "We write it"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Ir: vamos",
+          "english": "To go: we go"
+        },
+        {
+          "portuguese": "Vão",
+          "english": "They/you go"
+        },
+        {
+          "portuguese": "Chegar",
+          "english": "To arrive"
+        },
+        {
+          "portuguese": "As chegadas",
+          "english": "The arrivals"
+        },
+        {
+          "portuguese": "Lisboa",
+          "english": "Lisbon"
+        },
+        {
+          "portuguese": "Chegar a Lisboa",
+          "english": "To arrive in Lisbon"
+        },
+        {
+          "portuguese": "Vamos chegar a Lisboa amanhã",
+          "english": "We are going to arrive in Lisbon tomorrow"
+        },
+        {
+          "portuguese": "Vamos jantar esta noite",
+          "english": "We are going to have dinner tonight"
+        },
+        {
+          "portuguese": "Vamos estar aqui",
+          "english": "We are going to be here"
+        },
+        {
+          "portuguese": "Vão chegar mais tarde",
+          "english": "They are going to arrive later"
+        },
+        {
+          "portuguese": "Vamos chegar daqui a pouco",
+          "english": "We are going to arrive soon"
+        },
+        {
+          "portuguese": "Não vamos chegar hoje",
+          "english": "We are not going to arrive today"
+        },
+        {
+          "portuguese": "Vão estar nas chegadas",
+          "english": "They are going to be at the arrivals"
+        },
+        {
+          "portuguese": "Vamos chegar à cidade",
+          "english": "We are going to arrive at the city"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Pôr",
+          "english": "To put"
+        },
+        {
+          "portuguese": "Ponho",
+          "english": "I put"
+        },
+        {
+          "portuguese": "Suponho",
+          "english": "I suppose"
+        },
+        {
+          "portuguese": "Opor",
+          "english": "To oppose"
+        },
+        {
+          "portuguese": "Supor",
+          "english": "To suppose"
+        },
+        {
+          "portuguese": "Compor",
+          "english": "To compose"
+        },
+        {
+          "portuguese": "Ponho isto aqui",
+          "english": "I put this here"
+        },
+        {
+          "portuguese": "Suponho que é bom",
+          "english": "I suppose that it is good"
+        },
+        {
+          "portuguese": "Suponho que sim",
+          "english": "I suppose so"
+        },
+        {
+          "portuguese": "Ponho-o na casa",
+          "english": "I put it in the house"
+        },
+        {
+          "portuguese": "Não suponho que não",
+          "english": "I don't suppose not"
+        }
+      ]
+    },
+    "6": {
+      "1": [
+        {
+          "portuguese": "Fazer: faço",
+          "english": "To do: I do"
+        },
+        {
+          "portuguese": "Dizer: digo",
+          "english": "To say: I say"
+        },
+        {
+          "portuguese": "Trazer: trago",
+          "english": "To bring: I bring"
+        },
+        {
+          "portuguese": "Digo-lhe",
+          "english": "I am telling you/him/her"
+        },
+        {
+          "portuguese": "Trago-o",
+          "english": "I am bringing it/him"
+        },
+        {
+          "portuguese": "Traz",
+          "english": "You/he/she/it brings"
+        },
+        {
+          "portuguese": "Trazem",
+          "english": "They/you bring"
+        },
+        {
+          "portuguese": "Dizes",
+          "english": "You say"
+        },
+        {
+          "portuguese": "Trazes",
+          "english": "You bring"
+        },
+        {
+          "portuguese": "Dizemos",
+          "english": "We say"
+        },
+        {
+          "portuguese": "Trazemos",
+          "english": "We bring"
+        },
+        {
+          "portuguese": "Faço a reserva",
+          "english": "I do the reservation"
+        },
+        {
+          "portuguese": "Digo que é importante",
+          "english": "I say that it is important"
+        },
+        {
+          "portuguese": "Trago algo para o senhor",
+          "english": "I bring something for you"
+        },
+        {
+          "portuguese": "Dizemos que é bom",
+          "english": "We say that it is good"
+        },
+        {
+          "portuguese": "Trazemos tudo",
+          "english": "We bring everything"
+        },
+        {
+          "portuguese": "Faço isto todos os dias",
+          "english": "I do this every day"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Ponha isto aqui, por favor",
+          "english": "Put this here, please"
+        },
+        {
+          "portuguese": "Tenha paciência",
+          "english": "Have patience"
+        },
+        {
+          "portuguese": "Venha amanhã",
+          "english": "Come tomorrow"
+        },
+        {
+          "portuguese": "Tenha isto",
+          "english": "Have this"
+        },
+        {
+          "portuguese": "Venha cá",
+          "english": "Come here"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Diga-me quando",
+          "english": "Tell me when"
+        }
+      ],
+      "4": [],
+      "5": [
+        {
+          "portuguese": "Tens",
+          "english": "You have"
+        },
+        {
+          "portuguese": "Vens",
+          "english": "You come"
+        },
+        {
+          "portuguese": "Vêm",
+          "english": "You/they come"
+        },
+        {
+          "portuguese": "Começar",
+          "english": "To start"
+        },
+        {
+          "portuguese": "Começo",
+          "english": "I start"
+        },
+        {
+          "portuguese": "Começa",
+          "english": "You/he/she/it starts"
+        },
+        {
+          "portuguese": "Começas",
+          "english": "You start"
+        },
+        {
+          "portuguese": "Começamos",
+          "english": "We start"
+        },
+        {
+          "portuguese": "Começam",
+          "english": "They/you start"
+        },
+        {
+          "portuguese": "Começa agora",
+          "english": "You/he/she/it starts now"
+        },
+        {
+          "portuguese": "Começamos daqui a pouco",
+          "english": "We start soon"
+        },
+        {
+          "portuguese": "Vêm todos os dias",
+          "english": "They come every day"
+        },
+        {
+          "portuguese": "Começo amanhã",
+          "english": "I start tomorrow"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Pensar",
+          "english": "To think/to plan"
+        },
+        {
+          "portuguese": "Não te compreendo",
+          "english": "I don't understand you"
+        },
+        {
+          "portuguese": "Não te compreendemos",
+          "english": "We don't understand you"
+        },
+        {
+          "portuguese": "Contigo",
+          "english": "With you - informal"
+        },
+        {
+          "portuguese": "Lento",
+          "english": "Slowly"
+        },
+        {
+          "portuguese": "Mais lento",
+          "english": "More slowly"
+        },
+        {
+          "portuguese": "Penso que é bom",
+          "english": "I think that it is good"
+        },
+        {
+          "portuguese": "Não te vejo",
+          "english": "I don't see you"
+        },
+        {
+          "portuguese": "Não te compreendemos bem",
+          "english": "We don't understand you well"
+        },
+        {
+          "portuguese": "Penso jantar mais tarde",
+          "english": "I plan to have dinner later"
+        },
+        {
+          "portuguese": "Fale mais lento, por favor",
+          "english": "Speak more slowly, please"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Encontrar",
+          "english": "To find"
+        },
+        {
+          "portuguese": "Encontro",
+          "english": "I find"
+        },
+        {
+          "portuguese": "Não o encontro",
+          "english": "I don't find it"
+        },
+        {
+          "portuguese": "O encontro",
+          "english": "The meeting"
+        },
+        {
+          "portuguese": "Um encontro",
+          "english": "A meeting"
+        },
+        {
+          "portuguese": "Ficar",
+          "english": "To be situated/to stay"
+        },
+        {
+          "portuguese": "Fica no Brasil",
+          "english": "It is in Brazil"
+        },
+        {
+          "portuguese": "Não encontro a casa",
+          "english": "I don't find the house"
+        },
+        {
+          "portuguese": "O encontro é amanhã",
+          "english": "The meeting is tomorrow"
+        },
+        {
+          "portuguese": "Tenho um encontro esta noite",
+          "english": "I have a meeting tonight"
+        },
+        {
+          "portuguese": "A casa fica em Portugal",
+          "english": "The house is in Portugal"
+        },
+        {
+          "portuguese": "Não encontro o restaurante",
+          "english": "I don't find the restaurant"
+        },
+        {
+          "portuguese": "O encontro fica adiado",
+          "english": "The meeting is postponed"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Levantar",
+          "english": "To lift up"
+        },
+        {
+          "portuguese": "Levanto-me",
+          "english": "I get up"
+        },
+        {
+          "portuguese": "Levantamos",
+          "english": "We are lifting up"
+        },
+        {
+          "portuguese": "Nos",
+          "english": "Ourselves"
+        },
+        {
+          "portuguese": "Levantamo-nos",
+          "english": "We get up"
+        },
+        {
+          "portuguese": "Levantamo-los",
+          "english": "We are lifting them up"
+        },
+        {
+          "portuguese": "Levantas-te",
+          "english": "You are getting up"
+        },
+        {
+          "portuguese": "Ele levanta-se",
+          "english": "He gets up"
+        },
+        {
+          "portuguese": "Ela levanta-se",
+          "english": "She gets up"
+        },
+        {
+          "portuguese": "O senhor levanta-se",
+          "english": "You get up"
+        },
+        {
+          "portuguese": "Levantam-se",
+          "english": "They/you get up"
+        },
+        {
+          "portuguese": "Levanto-me cedo",
+          "english": "I get up early"
+        },
+        {
+          "portuguese": "Levantamo-nos tarde",
+          "english": "We get up late"
+        },
+        {
+          "portuguese": "Eles levantam-se às sete",
+          "english": "They get up at seven"
+        },
+        {
+          "portuguese": "Não me levanto muito cedo",
+          "english": "I don't get up very early"
+        },
+        {
+          "portuguese": "Levantam-se todos os dias às oito",
+          "english": "They get up every day at eight"
+        },
+        {
+          "portuguese": "Levantamo-los agora",
+          "english": "We are lifting them up now"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Vou levantar-me",
+          "english": "I am going to get up"
+        },
+        {
+          "portuguese": "Tenho de levantar-me",
+          "english": "I have to get up"
+        },
+        {
+          "portuguese": "Vamos levantar-nos",
+          "english": "We are going to get up"
+        },
+        {
+          "portuguese": "Temos de levantar-nos",
+          "english": "We have to get up"
+        },
+        {
+          "portuguese": "Tem de se levantar",
+          "english": "He/she has to / you have to get up"
+        },
+        {
+          "portuguese": "Tem de levantar-se",
+          "english": "He/she has to / you have to get up"
+        },
+        {
+          "portuguese": "Levantar-se",
+          "english": "To get up"
+        },
+        {
+          "portuguese": "Tem de o levantar",
+          "english": "He has to lift it/him up"
+        },
+        {
+          "portuguese": "Tem de levantá-lo",
+          "english": "He has to lift it/him up"
+        },
+        {
+          "portuguese": "Vou ter de levantar-me cedo",
+          "english": "I am going to have to get up early"
+        },
+        {
+          "portuguese": "Temos de nos levantar agora",
+          "english": "We have to get up now"
+        },
+        {
+          "portuguese": "Vai ter de se levantar",
+          "english": "You/he/she is going to have to get up"
+        },
+        {
+          "portuguese": "Tem de levantá-lo",
+          "english": "He/she/you has to lift it up"
+        },
+        {
+          "portuguese": "Vou levantá-lo amanhã",
+          "english": "I am going to lift it up tomorrow"
+        },
+        {
+          "portuguese": "Têm de se levantar cedo",
+          "english": "They have to get up early"
+        },
+        {
+          "portuguese": "Vamos ter de levantar-nos",
+          "english": "We are going to have to get up"
+        },
+        {
+          "portuguese": "Tem de o levantar agora",
+          "english": "He/she/you has to lift it up now"
+        },
+        {
+          "portuguese": "Tenho de me levantar às sete",
+          "english": "I have to get up at seven"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Ficar",
+          "english": "To be/to stay"
+        },
+        {
+          "portuguese": "Fico",
+          "english": "I stay"
+        },
+        {
+          "portuguese": "Fico aqui",
+          "english": "I am staying here"
+        },
+        {
+          "portuguese": "Uns",
+          "english": "A few/some - masculine"
+        },
+        {
+          "portuguese": "Umas",
+          "english": "A few/some - feminine"
+        },
+        {
+          "portuguese": "Ficamos uns dias",
+          "english": "We are staying a few days"
+        },
+        {
+          "portuguese": "Vamos ficar umas horas",
+          "english": "We are going to stay a few hours"
+        },
+        {
+          "portuguese": "O problema",
+          "english": "The problem"
+        },
+        {
+          "portuguese": "O sistema",
+          "english": "The system"
+        },
+        {
+          "portuguese": "O drama",
+          "english": "The drama"
+        },
+        {
+          "portuguese": "Fico em Portugal",
+          "english": "I stay in Portugal"
+        },
+        {
+          "portuguese": "Ficamos umas semanas",
+          "english": "We are staying a few weeks"
+        },
+        {
+          "portuguese": "Vamos ficar uns meses",
+          "english": "We are going to stay a few months"
+        },
+        {
+          "portuguese": "Não há nenhum problema",
+          "english": "There is no problem"
+        },
+        {
+          "portuguese": "O sistema é bom",
+          "english": "The system is good"
+        },
+        {
+          "portuguese": "Há um drama",
+          "english": "There is a drama"
+        }
+      ]
+    },
+    "7": {
+      "1": [
+        {
+          "portuguese": "Não há problema",
+          "english": "There is no problem"
+        },
+        {
+          "portuguese": "Muito",
+          "english": "Many - masculine"
+        },
+        {
+          "portuguese": "Muita",
+          "english": "Many - feminine"
+        },
+        {
+          "portuguese": "Muita gente",
+          "english": "Many people"
+        },
+        {
+          "portuguese": "Vemo-nos",
+          "english": "We meet/We see each other"
+        },
+        {
+          "portuguese": "Vemo-nos amanhã",
+          "english": "We'll see each other tomorrow"
+        },
+        {
+          "portuguese": "Há muita gente aqui",
+          "english": "There are many people here"
+        },
+        {
+          "portuguese": "Não há muito tempo",
+          "english": "There is not much time"
+        },
+        {
+          "portuguese": "Há um problema",
+          "english": "There is a problem"
+        },
+        {
+          "portuguese": "Muita importância",
+          "english": "Much importance"
+        },
+        {
+          "portuguese": "Vemo-nos daqui a pouco",
+          "english": "We'll see each other soon"
+        },
+        {
+          "portuguese": "Não há nada",
+          "english": "There is nothing"
+        },
+        {
+          "portuguese": "Há muito trabalho",
+          "english": "There is much work"
+        },
+        {
+          "portuguese": "Há muitas casas",
+          "english": "There are many houses"
+        },
+        {
+          "portuguese": "Não vemo-nos muito",
+          "english": "We don't see each other much"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Ligo-lhe amanhã",
+          "english": "I'll call you tomorrow"
+        },
+        {
+          "portuguese": "Vou ligar-te esta noite",
+          "english": "I am going to call you this evening"
+        },
+        {
+          "portuguese": "Falar: falarei",
+          "english": "To speak: I will speak"
+        },
+        {
+          "portuguese": "Comer: comerei",
+          "english": "To eat: I will eat"
+        },
+        {
+          "portuguese": "Começar: começaremos",
+          "english": "To start: we will start"
+        },
+        {
+          "portuguese": "Partir: partiremos",
+          "english": "To leave: we will leave"
+        },
+        {
+          "portuguese": "Falarei com o senhor",
+          "english": "I will speak with you"
+        },
+        {
+          "portuguese": "Comerei mais tarde",
+          "english": "I will eat later"
+        },
+        {
+          "portuguese": "Começaremos amanhã",
+          "english": "We will start tomorrow"
+        },
+        {
+          "portuguese": "Partiremos daqui a pouco",
+          "english": "We will leave soon"
+        },
+        {
+          "portuguese": "Ligarei esta noite",
+          "english": "I will call tonight"
+        },
+        {
+          "portuguese": "Vou começar agora",
+          "english": "I am going to start now"
+        },
+        {
+          "portuguese": "Falarei português em Portugal",
+          "english": "I will speak Portuguese in Portugal"
+        },
+        {
+          "portuguese": "Comeremos juntos",
+          "english": "We will eat together"
+        },
+        {
+          "portuguese": "Começarei quando puder",
+          "english": "I will start when I can"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Esperar",
+          "english": "To wait/to hope"
+        },
+        {
+          "portuguese": "Espero",
+          "english": "I hope/wait"
+        },
+        {
+          "portuguese": "Esperarei",
+          "english": "I will hope/wait"
+        },
+        {
+          "portuguese": "Esperaremos",
+          "english": "We will hope/wait"
+        },
+        {
+          "portuguese": "Espero-o",
+          "english": "I am waiting for you"
+        },
+        {
+          "portuguese": "Esperam-me",
+          "english": "They are waiting for me"
+        },
+        {
+          "portuguese": "Ficarei",
+          "english": "I will stay"
+        },
+        {
+          "portuguese": "Ficarei uns dias",
+          "english": "I will stay a few days"
+        },
+        {
+          "portuguese": "Espero que sim",
+          "english": "I hope so"
+        },
+        {
+          "portuguese": "Esperaremos aqui",
+          "english": "We will wait here"
+        },
+        {
+          "portuguese": "Ficarei em Lisboa",
+          "english": "I will stay in Lisbon"
+        },
+        {
+          "portuguese": "Esperarei pela confirmação",
+          "english": "I will wait for the confirmation"
+        },
+        {
+          "portuguese": "Ficaremos umas semanas",
+          "english": "We will stay a few weeks"
+        },
+        {
+          "portuguese": "Esperarei por ele",
+          "english": "I will wait for him"
+        },
+        {
+          "portuguese": "Ficarei aqui até amanhã",
+          "english": "I will stay here until tomorrow"
+        },
+        {
+          "portuguese": "Esperaremos por toda a gente",
+          "english": "We will wait for everyone"
+        },
+        {
+          "portuguese": "Espero vê-lo",
+          "english": "I hope to see it"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Comprar: comprarás",
+          "english": "To buy: you will buy"
+        },
+        {
+          "portuguese": "Comprará",
+          "english": "You/he/she/it will buy"
+        },
+        {
+          "portuguese": "Comprarão",
+          "english": "You all/they will buy"
+        },
+        {
+          "portuguese": "Vais ligar-me",
+          "english": "You are going to call me"
+        },
+        {
+          "portuguese": "Comprará a casa",
+          "english": "You/he/she/it will buy the house"
+        },
+        {
+          "portuguese": "Comprarão tudo",
+          "english": "They/you will buy everything"
+        },
+        {
+          "portuguese": "Venderá amanhã",
+          "english": "You/he/she/it will sell tomorrow"
+        },
+        {
+          "portuguese": "Venderão tudo",
+          "english": "They/you will sell everything"
+        },
+        {
+          "portuguese": "Falará muito",
+          "english": "You/he/she/it will speak a lot"
+        },
+        {
+          "portuguese": "Falarão comigo",
+          "english": "They/you will speak with me"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Demasiado",
+          "english": "Too much"
+        },
+        {
+          "portuguese": "É demasiado caro",
+          "english": "It is too expensive"
+        },
+        {
+          "portuguese": "Estarei aqui umas horas",
+          "english": "I will be here a few hours"
+        },
+        {
+          "portuguese": "É demasiado tarde",
+          "english": "It is too late"
+        },
+        {
+          "portuguese": "Estarei lá",
+          "english": "I will be there"
+        },
+        {
+          "portuguese": "Estaremos prontos",
+          "english": "We will be ready"
+        },
+        {
+          "portuguese": "É demasiado para mim",
+          "english": "It is too much for me"
+        },
+        {
+          "portuguese": "Estarei ocupado",
+          "english": "I will be busy"
+        },
+        {
+          "portuguese": "Estaremos aqui amanhã",
+          "english": "We will be here tomorrow"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Será",
+          "english": "It will be"
+        },
+        {
+          "portuguese": "Irei",
+          "english": "I will go"
+        },
+        {
+          "portuguese": "Irei a Lisboa amanhã",
+          "english": "I will go to Lisbon tomorrow"
+        },
+        {
+          "portuguese": "Será importante",
+          "english": "It will be important"
+        },
+        {
+          "portuguese": "Irei amanhã",
+          "english": "I will go tomorrow"
+        },
+        {
+          "portuguese": "Iremos juntos",
+          "english": "We will go together"
+        },
+        {
+          "portuguese": "Será bom",
+          "english": "It will be good"
+        },
+        {
+          "portuguese": "Irei a Portugal",
+          "english": "I will go to Portugal"
+        },
+        {
+          "portuguese": "Iremos mais tarde",
+          "english": "We will go later"
+        },
+        {
+          "portuguese": "Irei contigo",
+          "english": "I will go with you"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Fazer: farei",
+          "english": "To do: I will do"
+        },
+        {
+          "portuguese": "Fará",
+          "english": "You/he/she/it will do"
+        },
+        {
+          "portuguese": "Farás",
+          "english": "You will do - informal"
+        },
+        {
+          "portuguese": "Faremos",
+          "english": "We will do"
+        },
+        {
+          "portuguese": "Farão",
+          "english": "You all/they will do"
+        },
+        {
+          "portuguese": "Dizer: direi",
+          "english": "To say: I will say"
+        },
+        {
+          "portuguese": "Dirá",
+          "english": "You/he/she/it will say"
+        },
+        {
+          "portuguese": "Dirás",
+          "english": "You will say - informal"
+        },
+        {
+          "portuguese": "Diremos",
+          "english": "We will say"
+        },
+        {
+          "portuguese": "Dirão",
+          "english": "You all/they will say"
+        },
+        {
+          "portuguese": "Trazer: trarei",
+          "english": "To bring: I will bring"
+        },
+        {
+          "portuguese": "Trará",
+          "english": "You/he/she/it will bring"
+        },
+        {
+          "portuguese": "Trarás",
+          "english": "You will bring - informal"
+        },
+        {
+          "portuguese": "Traremos",
+          "english": "We will bring"
+        },
+        {
+          "portuguese": "Trarão",
+          "english": "You all/they will bring"
+        },
+        {
+          "portuguese": "Farei isto amanhã",
+          "english": "I will do this tomorrow"
+        },
+        {
+          "portuguese": "Faremos tudo",
+          "english": "We will do everything"
+        },
+        {
+          "portuguese": "Farão a preparação",
+          "english": "They will do the preparation"
+        },
+        {
+          "portuguese": "Direi a verdade",
+          "english": "I will tell the truth"
+        },
+        {
+          "portuguese": "Diremos quando",
+          "english": "We will say when"
+        },
+        {
+          "portuguese": "Dirão tudo",
+          "english": "They will say everything"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Nada",
+          "english": "Nothing"
+        },
+        {
+          "portuguese": "Não traremos nada",
+          "english": "We will not bring anything"
+        },
+        {
+          "portuguese": "Não vejo nada",
+          "english": "I don't see anything"
+        },
+        {
+          "portuguese": "Não veremos nada",
+          "english": "We will not see anything"
+        },
+        {
+          "portuguese": "Não farão nada",
+          "english": "They will not do anything"
+        },
+        {
+          "portuguese": "Não direi nada",
+          "english": "I will not say anything"
+        },
+        {
+          "portuguese": "Não tem nada",
+          "english": "You have nothing"
+        },
+        {
+          "portuguese": "Não quero nada",
+          "english": "I don't want anything"
+        },
+        {
+          "portuguese": "Não há nada aqui",
+          "english": "There is nothing here"
+        },
+        {
+          "portuguese": "Não trarei nada",
+          "english": "I will not bring anything"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Seria necessário",
+          "english": "It would be necessary"
+        },
+        {
+          "portuguese": "Faria",
+          "english": "I would do"
+        },
+        {
+          "portuguese": "Fá-lo-ia",
+          "english": "I would do it"
+        },
+        {
+          "portuguese": "Diria",
+          "english": "I would say"
+        },
+        {
+          "portuguese": "Traria",
+          "english": "I would bring"
+        },
+        {
+          "portuguese": "Seria bom",
+          "english": "It would be good"
+        },
+        {
+          "portuguese": "Faria a reserva",
+          "english": "I would make the reservation"
+        },
+        {
+          "portuguese": "Diria que sim",
+          "english": "I would say yes"
+        },
+        {
+          "portuguese": "Traria algo",
+          "english": "I would bring something"
+        },
+        {
+          "portuguese": "Faria isto",
+          "english": "I would do this"
+        },
+        {
+          "portuguese": "Seria necessário",
+          "english": "It would be necessary"
+        },
+        {
+          "portuguese": "Diria a verdade",
+          "english": "I would tell the truth"
+        },
+        {
+          "portuguese": "Traria tudo",
+          "english": "I would bring everything"
+        },
+        {
+          "portuguese": "Fá-lo-ia amanhã",
+          "english": "I would do it tomorrow"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Ter: terei",
+          "english": "To have: I will have"
+        },
+        {
+          "portuguese": "Terá",
+          "english": "He/she/it/you will have"
+        },
+        {
+          "portuguese": "Teria",
+          "english": "I/he/she/it/you would have"
+        },
+        {
+          "portuguese": "Gostaria de",
+          "english": "I would like"
+        },
+        {
+          "portuguese": "Gostaria de vê-lo",
+          "english": "I would like to see it"
+        },
+        {
+          "portuguese": "Queria",
+          "english": "I wanted/I would like"
+        },
+        {
+          "portuguese": "Queria vê-lo",
+          "english": "I would like to see it"
+        },
+        {
+          "portuguese": "Terei tempo",
+          "english": "I will have time"
+        },
+        {
+          "portuguese": "Terá a confirmação",
+          "english": "You/he/she/it will have the confirmation"
+        },
+        {
+          "portuguese": "Teria paciência",
+          "english": "I would have patience"
+        },
+        {
+          "portuguese": "Gostaria de ficar",
+          "english": "I would like to stay"
+        },
+        {
+          "portuguese": "Queria jantar",
+          "english": "I would like to have dinner"
+        },
+        {
+          "portuguese": "Gostaria de comprar isto",
+          "english": "I would like to buy this"
+        },
+        {
+          "portuguese": "Queria falar consigo",
+          "english": "I would like to speak with you"
+        },
+        {
+          "portuguese": "Gostaria de ir a Portugal",
+          "english": "I would like to go to Portugal"
+        },
+        {
+          "portuguese": "Terei tudo pronto",
+          "english": "I will have everything ready"
+        },
+        {
+          "portuguese": "Queria ver isto",
+          "english": "I would like to see this"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Comprar: comprei",
+          "english": "To buy: I bought"
+        },
+        {
+          "portuguese": "Vender: vendi",
+          "english": "To sell: I sold"
+        },
+        {
+          "portuguese": "Partir: parti",
+          "english": "To leave: I left"
+        },
+        {
+          "portuguese": "Ele comprou",
+          "english": "He bought"
+        },
+        {
+          "portuguese": "Ele vendeu",
+          "english": "He sold"
+        },
+        {
+          "portuguese": "Ele partiu",
+          "english": "He left"
+        },
+        {
+          "portuguese": "Ontem",
+          "english": "Yesterday"
+        },
+        {
+          "portuguese": "Comprei-o ontem",
+          "english": "I bought it yesterday"
+        },
+        {
+          "portuguese": "Comprei a casa ontem",
+          "english": "I bought the house yesterday"
+        },
+        {
+          "portuguese": "Vendeu tudo",
+          "english": "You/he/she/it sold everything"
+        },
+        {
+          "portuguese": "Partiram ontem",
+          "english": "They left yesterday"
+        },
+        {
+          "portuguese": "Comprei-a",
+          "english": "I bought it"
+        },
+        {
+          "portuguese": "Comprei isto para o senhor",
+          "english": "I bought this for you"
+        },
+        {
+          "portuguese": "Partiu cedo",
+          "english": "You/he/she/it left early"
+        },
+        {
+          "portuguese": "Vendi-a ontem",
+          "english": "I sold it yesterday"
+        }
+      ],
+      "12": [
+        {
+          "portuguese": "Compramos",
+          "english": "We buy/We bought"
+        },
+        {
+          "portuguese": "Vendemos",
+          "english": "We sell/We sold"
+        },
+        {
+          "portuguese": "Partimos",
+          "english": "We leave/We left"
+        },
+        {
+          "portuguese": "Vendemos a casa ontem",
+          "english": "We sold the house yesterday"
+        },
+        {
+          "portuguese": "Partimos ontem",
+          "english": "We left yesterday"
+        },
+        {
+          "portuguese": "Compramos tudo",
+          "english": "We bought everything"
+        },
+        {
+          "portuguese": "Vendemos a casa",
+          "english": "We sold the house"
+        },
+        {
+          "portuguese": "Fizemos a reserva",
+          "english": "We made the reservation"
+        },
+        {
+          "portuguese": "Dissemos a verdade",
+          "english": "We told the truth"
+        },
+        {
+          "portuguese": "Trouxemos isto",
+          "english": "We brought this"
+        },
+        {
+          "portuguese": "Fomos a Portugal",
+          "english": "We went to Portugal"
+        },
+        {
+          "portuguese": "Estivemos lá",
+          "english": "We were there"
+        },
+        {
+          "portuguese": "Tivemos tempo",
+          "english": "We had time"
+        },
+        {
+          "portuguese": "Vimos isto",
+          "english": "We saw this"
+        }
+      ]
+    },
+    "8": {
+      "1": [
+        {
+          "portuguese": "Compraram",
+          "english": "They/you bought"
+        },
+        {
+          "portuguese": "Venderam",
+          "english": "They/you sold"
+        },
+        {
+          "portuguese": "Partiram",
+          "english": "They/you left"
+        },
+        {
+          "portuguese": "Compraste",
+          "english": "You bought - informal"
+        },
+        {
+          "portuguese": "Vendeste",
+          "english": "You sold - informal"
+        },
+        {
+          "portuguese": "Partiste",
+          "english": "You left - informal"
+        },
+        {
+          "portuguese": "Partiram cedo",
+          "english": "They left early"
+        },
+        {
+          "portuguese": "Fizeram a preparação",
+          "english": "They made the preparation"
+        },
+        {
+          "portuguese": "Disseram que sim",
+          "english": "They said yes"
+        },
+        {
+          "portuguese": "Trouxeram tudo",
+          "english": "They brought everything"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Comi",
+          "english": "I ate"
+        },
+        {
+          "portuguese": "Fiz uma reserva",
+          "english": "I made a reservation"
+        },
+        {
+          "portuguese": "Fiz tudo",
+          "english": "I did everything"
+        },
+        {
+          "portuguese": "Disse-lhe a verdade",
+          "english": "I told him the truth"
+        },
+        {
+          "portuguese": "Trouxe isto para ti",
+          "english": "I brought this for you"
+        },
+        {
+          "portuguese": "Fui a Lisboa",
+          "english": "I went to Lisbon"
+        },
+        {
+          "portuguese": "Estive ocupado",
+          "english": "I was busy"
+        },
+        {
+          "portuguese": "Tive tempo",
+          "english": "I had time"
+        },
+        {
+          "portuguese": "Vi a casa",
+          "english": "I saw the house"
+        },
+        {
+          "portuguese": "Pus-o lá",
+          "english": "I put it there"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Sim, gostei",
+          "english": "Yes, I liked it"
+        },
+        {
+          "portuguese": "Não gostei",
+          "english": "I didn't like it"
+        },
+        {
+          "portuguese": "Sim, gostei muito",
+          "english": "Yes, I liked it very much"
+        },
+        {
+          "portuguese": "Não, não gostei",
+          "english": "No, I didn't like it"
+        },
+        {
+          "portuguese": "Gostei da casa",
+          "english": "I liked the house"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Esperar",
+          "english": "To wait/to hope"
+        },
+        {
+          "portuguese": "Espero-o",
+          "english": "I am waiting for you"
+        },
+        {
+          "portuguese": "Espera-o",
+          "english": "He is waiting for you"
+        },
+        {
+          "portuguese": "Esperam-me",
+          "english": "They are waiting for me"
+        },
+        {
+          "portuguese": "Esperaram-me ontem",
+          "english": "They waited for me yesterday"
+        },
+        {
+          "portuguese": "Esperei uma hora",
+          "english": "I waited an hour"
+        },
+        {
+          "portuguese": "Espera-me aqui",
+          "english": "Wait for me here"
+        },
+        {
+          "portuguese": "Não esperei",
+          "english": "I didn't wait"
+        },
+        {
+          "portuguese": "Espere, por favor",
+          "english": "Wait, please"
+        },
+        {
+          "portuguese": "Esperei-o ontem",
+          "english": "I waited for you yesterday"
+        },
+        {
+          "portuguese": "Não me esperaram",
+          "english": "They didn't wait for me"
+        }
+      ],
+      "5": [],
+      "6": [
+        {
+          "portuguese": "Perguntar",
+          "english": "To ask"
+        },
+        {
+          "portuguese": "Gostaria de perguntar",
+          "english": "I would like to ask"
+        },
+        {
+          "portuguese": "Perguntar-lhe",
+          "english": "To ask you"
+        },
+        {
+          "portuguese": "Dizer-lhe",
+          "english": "To tell you"
+        },
+        {
+          "portuguese": "Para",
+          "english": "For/in order to"
+        },
+        {
+          "portuguese": "Para perguntar",
+          "english": "In order to ask"
+        },
+        {
+          "portuguese": "Para lhe perguntar",
+          "english": "To ask you/him/her"
+        },
+        {
+          "portuguese": "Para perguntar-lhe",
+          "english": "To ask you/him/her"
+        },
+        {
+          "portuguese": "Gostaria de lhe perguntar algo",
+          "english": "I would like to ask you something"
+        },
+        {
+          "portuguese": "Perguntei-lhe ontem",
+          "english": "I asked you yesterday"
+        },
+        {
+          "portuguese": "Pode perguntar-me",
+          "english": "You can ask me"
+        },
+        {
+          "portuguese": "Para lhe dizer a verdade",
+          "english": "To tell you the truth"
+        },
+        {
+          "portuguese": "Disse-lhe para vir",
+          "english": "I told him to come"
+        },
+        {
+          "portuguese": "Para perguntar-lhe isto",
+          "english": "To ask you this"
+        },
+        {
+          "portuguese": "Para te dizer algo",
+          "english": "To tell you something"
+        },
+        {
+          "portuguese": "Perguntaram-me",
+          "english": "They asked me"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Chegar: chega",
+          "english": "To arrive: you/he/she/it arrives"
+        },
+        {
+          "portuguese": "Cheguei",
+          "english": "I arrived"
+        },
+        {
+          "portuguese": "Acabar de",
+          "english": "To finish/to have just"
+        },
+        {
+          "portuguese": "Acabo de chegar",
+          "english": "I have just arrived"
+        },
+        {
+          "portuguese": "Acabei de chegar",
+          "english": "I have just arrived"
+        },
+        {
+          "portuguese": "Acabo de chegar aqui há uns dias",
+          "english": "I just arrived here a few days ago"
+        },
+        {
+          "portuguese": "Cheguei ontem",
+          "english": "I arrived yesterday"
+        },
+        {
+          "portuguese": "Acabei de jantar",
+          "english": "I have just had dinner"
+        },
+        {
+          "portuguese": "Acabamos de chegar",
+          "english": "We have just arrived"
+        },
+        {
+          "portuguese": "Acabo de o ver",
+          "english": "I have just seen it"
+        },
+        {
+          "portuguese": "Chegaram há uma hora",
+          "english": "They arrived an hour ago"
+        },
+        {
+          "portuguese": "Acabo de falar com ele",
+          "english": "I have just spoken with him"
+        },
+        {
+          "portuguese": "Chegou há uns dias",
+          "english": "You arrived a few days ago"
+        },
+        {
+          "portuguese": "Acabaram de sair",
+          "english": "They have just left"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "/ Brazilian: Não compreendo você",
+          "english": "I don't understand you"
+        },
+        {
+          "portuguese": "/ Brazilian: Estou escrevendo",
+          "english": "I am writing"
+        },
+        {
+          "portuguese": "/ Brazilian: Todo o mundo",
+          "english": "Everyone"
+        },
+        {
+          "portuguese": "/ Brazilian: Botar",
+          "english": "To put"
+        },
+        {
+          "portuguese": "Compreendo você bem",
+          "english": "I understand you well. - Brazilian"
+        },
+        {
+          "portuguese": "Todo o mundo está aqui",
+          "english": "Everyone is here. - Brazilian"
+        },
+        {
+          "portuguese": "Vou botar isto aqui",
+          "english": "I am going to put this here. - Brazilian"
+        },
+        {
+          "portuguese": "Não compreendo você",
+          "english": "I don't understand you. - Brazilian"
+        },
+        {
+          "portuguese": "Estou escrevendo uma carta",
+          "english": "I am writing a letter. - Brazilian"
+        },
+        {
+          "portuguese": "Todo o mundo gosta",
+          "english": "Everyone likes it. - Brazilian"
+        }
+      ]
+    }
+  },
+  "advanced": {
+    "1": {
+      "1": [
+        {
+          "portuguese": "Compro o carro",
+          "english": "I buy the car"
+        },
+        {
+          "portuguese": "Porque é necessário",
+          "english": "Because it is necessary"
+        },
+        {
+          "portuguese": "O Paulo fala português",
+          "english": "Paulo speaks Portuguese"
+        },
+        {
+          "portuguese": "Compram o carro porque é bom",
+          "english": "They buy the car because it is good"
+        },
+        {
+          "portuguese": "O carro é muito caro",
+          "english": "The car is very expensive"
+        },
+        {
+          "portuguese": "Um carro é necessário",
+          "english": "A car is necessary"
+        },
+        {
+          "portuguese": "Compro um carro amanhã",
+          "english": "I buy a car tomorrow"
+        },
+        {
+          "portuguese": "O Paulo compra o carro hoje",
+          "english": "Paulo buys the car today"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "O Paulo fala bem português",
+          "english": "Paulo speaks Portuguese well"
+        },
+        {
+          "portuguese": "Falo bem inglês",
+          "english": "I speak English well"
+        },
+        {
+          "portuguese": "Escreve bem",
+          "english": "You/he/she/it writes well"
+        },
+        {
+          "portuguese": "Todos os dias",
+          "english": "Every day"
+        },
+        {
+          "portuguese": "Compro o carro todos os dias",
+          "english": "I buy the car every day"
+        },
+        {
+          "portuguese": "Fala português todos os dias",
+          "english": "You/he/she/it speaks Portuguese every day"
+        },
+        {
+          "portuguese": "Como bem todos os dias",
+          "english": "I eat well every day"
+        },
+        {
+          "portuguese": "O Paulo fala bem todos os dias",
+          "english": "Paulo speaks well every day"
+        },
+        {
+          "portuguese": "Trabalho bem",
+          "english": "I work well"
+        },
+        {
+          "portuguese": "Fazem bem o trabalho",
+          "english": "They do the work well"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Vendem-no",
+          "english": "They are selling it"
+        },
+        {
+          "portuguese": "Vendem-na",
+          "english": "They are selling it"
+        },
+        {
+          "portuguese": "Compram-no",
+          "english": "They are buying it"
+        },
+        {
+          "portuguese": "Compram-na",
+          "english": "They are buying it"
+        },
+        {
+          "portuguese": "Compram-nos",
+          "english": "They are buying them"
+        },
+        {
+          "portuguese": "Compram-nas",
+          "english": "They are buying them"
+        },
+        {
+          "portuguese": "Vendem-no bem",
+          "english": "They are selling it well"
+        },
+        {
+          "portuguese": "Fazem-no todos os dias",
+          "english": "They do it every day"
+        },
+        {
+          "portuguese": "Compram-no porque é bom",
+          "english": "They are buying it because it is good"
+        },
+        {
+          "portuguese": "Vendem-na amanhã",
+          "english": "They are selling it tomorrow"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "A Maria é bonita",
+          "english": "Maria is a pretty girl"
+        },
+        {
+          "portuguese": "A Maria está bonita",
+          "english": "Maria is especially pretty today"
+        },
+        {
+          "portuguese": "Estou cansado",
+          "english": "I am tired"
+        },
+        {
+          "portuguese": "É importante",
+          "english": "It is important"
+        },
+        {
+          "portuguese": "Está pronto",
+          "english": "It is ready"
+        },
+        {
+          "portuguese": "A casa é bonita",
+          "english": "The house is pretty"
+        },
+        {
+          "portuguese": "A casa está pronta",
+          "english": "The house is ready"
+        },
+        {
+          "portuguese": "Sou inglês",
+          "english": "I am English"
+        },
+        {
+          "portuguese": "Estou aqui",
+          "english": "I am here"
+        },
+        {
+          "portuguese": "É muito bom",
+          "english": "It is very good"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Fica em Lisboa",
+          "english": "It is in Lisbon"
+        },
+        {
+          "portuguese": "Ele está a falar",
+          "english": "He is speaking"
+        },
+        {
+          "portuguese": "Algo",
+          "english": "Something"
+        },
+        {
+          "portuguese": "Está a preparar algo para mim",
+          "english": "He is preparing something for me"
+        },
+        {
+          "portuguese": "Prepará-lo",
+          "english": "To prepare it"
+        },
+        {
+          "portuguese": "Prepará-la",
+          "english": "To prepare it"
+        },
+        {
+          "portuguese": "Está a fazer algo",
+          "english": "He is doing something"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Fazer",
+          "english": "To do/make"
+        },
+        {
+          "portuguese": "Faz",
+          "english": "You/he/she/it does/makes"
+        },
+        {
+          "portuguese": "Fazes",
+          "english": "You do"
+        },
+        {
+          "portuguese": "Fazem",
+          "english": "They/you all make"
+        },
+        {
+          "portuguese": "Dizer",
+          "english": "To say/tell"
+        },
+        {
+          "portuguese": "Diz",
+          "english": "He/she/it says"
+        },
+        {
+          "portuguese": "Diz a verdade",
+          "english": "He says the truth"
+        },
+        {
+          "portuguese": "Fazem bem o trabalho",
+          "english": "They do the work well"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Lhe",
+          "english": "To you/him/her"
+        },
+        {
+          "portuguese": "Querer",
+          "english": "To want"
+        },
+        {
+          "portuguese": "Quero",
+          "english": "I want"
+        },
+        {
+          "portuguese": "Quer",
+          "english": "You/he/she/it wants"
+        },
+        {
+          "portuguese": "Quere-o",
+          "english": "You/he/she/it wants it"
+        },
+        {
+          "portuguese": "Quere-a",
+          "english": "You/he/she/it wants it"
+        },
+        {
+          "portuguese": "Assim",
+          "english": "So/like that"
+        },
+        {
+          "portuguese": "Querem",
+          "english": "They/you all want"
+        },
+        {
+          "portuguese": "Queres",
+          "english": "You want"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Vai",
+          "english": "You/he/she/it go/goes/are/is going"
+        },
+        {
+          "portuguese": "Vais",
+          "english": "You go/are going"
+        },
+        {
+          "portuguese": "Aos",
+          "english": "To the - plural masculine"
+        },
+        {
+          "portuguese": "Ver",
+          "english": "To see"
+        },
+        {
+          "portuguese": "Esta noite",
+          "english": "Tonight"
+        },
+        {
+          "portuguese": "Vão vê-lo esta noite",
+          "english": "They are going to see it tonight"
+        },
+        {
+          "portuguese": "E vão comprá-lo amanhã",
+          "english": "And they are going to buy it tomorrow"
+        },
+        {
+          "portuguese": "Mais tarde",
+          "english": "Later"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Ter",
+          "english": "To have"
+        },
+        {
+          "portuguese": "Tenho-o para o senhor",
+          "english": "I have it for you"
+        },
+        {
+          "portuguese": "Tem",
+          "english": "You have/he/she/it has"
+        },
+        {
+          "portuguese": "Tem-no",
+          "english": "He has it"
+        },
+        {
+          "portuguese": "Não o tem",
+          "english": "She doesn&apos;t have it"
+        },
+        {
+          "portuguese": "Tens",
+          "english": "You have"
+        },
+        {
+          "portuguese": "Ter de",
+          "english": "To have to"
+        },
+        {
+          "portuguese": "Tens de estar aqui mais tarde",
+          "english": "You have to be here later"
+        },
+        {
+          "portuguese": "Têm",
+          "english": "You all/they have"
+        },
+        {
+          "portuguese": "Têm de tê-lo amanhã",
+          "english": "They have to have it tomorrow"
+        },
+        {
+          "portuguese": "Vir",
+          "english": "To come"
+        },
+        {
+          "portuguese": "Querem vir a Lisboa",
+          "english": "They want to come to Lisbon"
+        },
+        {
+          "portuguese": "Venho",
+          "english": "I come"
+        },
+        {
+          "portuguese": "Vem",
+          "english": "You come/he/she/it comes"
+        },
+        {
+          "portuguese": "Uma semana",
+          "english": "A week"
+        },
+        {
+          "portuguese": "A semana",
+          "english": "The week"
+        },
+        {
+          "portuguese": "A semana que vem",
+          "english": "Next week"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Vou",
+          "english": "I am going"
+        },
+        {
+          "portuguese": "Amanhã",
+          "english": "Tomorrow"
+        },
+        {
+          "portuguese": "Vou a Lisboa amanhã",
+          "english": "I am going to Lisbon tomorrow"
+        },
+        {
+          "portuguese": "Nada",
+          "english": "Nothing"
+        },
+        {
+          "portuguese": "Não vou comprar nada aqui",
+          "english": "I&apos;m not going to buy anything here"
+        },
+        {
+          "portuguese": "Lamento, mas não sei o que é",
+          "english": "I am sorry, but I don&apos;t know what it is"
+        },
+        {
+          "portuguese": "Começar",
+          "english": "To start"
+        },
+        {
+          "portuguese": "Começo agora",
+          "english": "I start now"
+        },
+        {
+          "portuguese": "Começamos",
+          "english": "We start"
+        },
+        {
+          "portuguese": "Temos",
+          "english": "We have"
+        },
+        {
+          "portuguese": "Vimos",
+          "english": "We come"
+        },
+        {
+          "portuguese": "Vamos",
+          "english": "We go"
+        },
+        {
+          "portuguese": "Compramo-lo",
+          "english": "We buy it"
+        },
+        {
+          "portuguese": "Compramo-la",
+          "english": "We buy it"
+        },
+        {
+          "portuguese": "Levantar",
+          "english": "To lift"
+        },
+        {
+          "portuguese": "Levanto-me",
+          "english": "I get up"
+        },
+        {
+          "portuguese": "Levantas-te",
+          "english": "You get up"
+        },
+        {
+          "portuguese": "Compreendo-te",
+          "english": "I understand you"
+        },
+        {
+          "portuguese": "Levantar-se",
+          "english": "To get up"
+        },
+        {
+          "portuguese": "Levanta-se",
+          "english": "He gets up"
+        },
+        {
+          "portuguese": "Nos",
+          "english": "Us/ourselves"
+        },
+        {
+          "portuguese": "Levantamo-nos tarde",
+          "english": "We get up late"
+        },
+        {
+          "portuguese": "Nós",
+          "english": "We"
+        },
+        {
+          "portuguese": "Nós não o queremos",
+          "english": "We don&apos;t want it"
+        },
+        {
+          "portuguese": "Comigo",
+          "english": "With me"
+        },
+        {
+          "portuguese": "Contigo",
+          "english": "With you"
+        },
+        {
+          "portuguese": "Connosco",
+          "english": "With us"
+        },
+        {
+          "portuguese": "Ela vem connosco amanhã",
+          "english": "She comes with us tomorrow"
+        }
+      ]
+    },
+    "2": {
+      "1": [
+        {
+          "portuguese": "Ligar",
+          "english": "To call"
+        },
+        {
+          "portuguese": "Liga-me amanhã",
+          "english": "Ring me tomorrow"
+        },
+        {
+          "portuguese": "Ligue-me amanhã",
+          "english": "Ring me tomorrow"
+        },
+        {
+          "portuguese": "Não me ligue hoje",
+          "english": "Don&apos;t ring me today"
+        },
+        {
+          "portuguese": "Não me ligues hoje",
+          "english": "Don&apos;t ring me today"
+        },
+        {
+          "portuguese": "Trazer",
+          "english": "To bring"
+        },
+        {
+          "portuguese": "Trago",
+          "english": "I bring"
+        },
+        {
+          "portuguese": "Trazem",
+          "english": "You all bring"
+        },
+        {
+          "portuguese": "Traz",
+          "english": "You bring/he/she/it brings"
+        },
+        {
+          "portuguese": "Trazes",
+          "english": "You bring"
+        },
+        {
+          "portuguese": "Fazer",
+          "english": "To do/make"
+        },
+        {
+          "portuguese": "Faço",
+          "english": "I do/make"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Diga-lhe que o trago",
+          "english": "Tell him that I am bringing it"
+        },
+        {
+          "portuguese": "Saber",
+          "english": "To know"
+        },
+        {
+          "portuguese": "Sabes",
+          "english": "You know"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Todo",
+          "english": "All"
+        },
+        {
+          "portuguese": "Tudo",
+          "english": "Everything"
+        },
+        {
+          "portuguese": "Sabem tudo",
+          "english": "They know everything"
+        },
+        {
+          "portuguese": "Nós sabemos tudo",
+          "english": "We know everything"
+        },
+        {
+          "portuguese": "Sabemo-lo",
+          "english": "We know it"
+        },
+        {
+          "portuguese": "Sei",
+          "english": "I know"
+        },
+        {
+          "portuguese": "Não sei nada",
+          "english": "I know nothing"
+        },
+        {
+          "portuguese": "Conhecer",
+          "english": "To know a person"
+        },
+        {
+          "portuguese": "Conheço",
+          "english": "I know"
+        },
+        {
+          "portuguese": "Não o conheço",
+          "english": "I don&apos;t know him"
+        },
+        {
+          "portuguese": "Não a conheço",
+          "english": "I don&apos;t know her"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Venho",
+          "english": "I come"
+        },
+        {
+          "portuguese": "Tenho",
+          "english": "I have"
+        },
+        {
+          "portuguese": "Ponho",
+          "english": "I put"
+        },
+        {
+          "portuguese": "Pôr",
+          "english": "To put"
+        },
+        {
+          "portuguese": "Posso",
+          "english": "I can"
+        },
+        {
+          "portuguese": "Sou inglês",
+          "english": "I am English"
+        },
+        {
+          "portuguese": "Sou inglesa",
+          "english": "I am English"
+        },
+        {
+          "portuguese": "A minha",
+          "english": "My - feminine"
+        },
+        {
+          "portuguese": "A minha casa",
+          "english": "My house"
+        },
+        {
+          "portuguese": "As minhas amigas",
+          "english": "My friends - female"
+        },
+        {
+          "portuguese": "Em casa",
+          "english": "At home"
+        },
+        {
+          "portuguese": "Ficar",
+          "english": "To stay"
+        },
+        {
+          "portuguese": "As minhas amigas ficam uma semana",
+          "english": "My friends are staying a week"
+        },
+        {
+          "portuguese": "O meu",
+          "english": "My - masculine"
+        },
+        {
+          "portuguese": "O meu amigo",
+          "english": "My friend"
+        },
+        {
+          "portuguese": "Os meus amigos",
+          "english": "My friends"
+        },
+        {
+          "portuguese": "Os meus amigos não estão em casa hoje",
+          "english": "My friends are not at home today"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "O seu",
+          "english": "Your/his/her/your/their - masculine"
+        },
+        {
+          "portuguese": "A sua",
+          "english": "Your/his/her/your/their - feminine"
+        },
+        {
+          "portuguese": "O seu carro",
+          "english": "Your/his/her car"
+        },
+        {
+          "portuguese": "A sua casa",
+          "english": "Your/his/her house"
+        },
+        {
+          "portuguese": "Os seus amigos",
+          "english": "Your/his/her friends"
+        },
+        {
+          "portuguese": "As suas amigas",
+          "english": "Your/his/her friends - female"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Até",
+          "english": "Until"
+        },
+        {
+          "portuguese": "Até amanhã",
+          "english": "See you tomorrow"
+        },
+        {
+          "portuguese": "A sua amiga está ocupada até amanhã",
+          "english": "Her friend is busy until tomorrow"
+        },
+        {
+          "portuguese": "Até à semana que vem",
+          "english": "Until next week"
+        },
+        {
+          "portuguese": "As suas amigas ficam em Lisboa até à semana que vem",
+          "english": "Her friends are staying in Lisbon until next week"
+        },
+        {
+          "portuguese": "Dele",
+          "english": "His/of he"
+        },
+        {
+          "portuguese": "Dela",
+          "english": "Her/of she"
+        },
+        {
+          "portuguese": "O amigo dela",
+          "english": "Her friend"
+        },
+        {
+          "portuguese": "Os amigos deles",
+          "english": "Their friends"
+        },
+        {
+          "portuguese": "As amigas delas",
+          "english": "Their friends - female"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "O teu",
+          "english": "Your - informal masculine"
+        },
+        {
+          "portuguese": "A tua",
+          "english": "Your - informal feminine"
+        },
+        {
+          "portuguese": "A tua amiga sabe tudo",
+          "english": "Your friend knows everything"
+        },
+        {
+          "portuguese": "Sim, conhecemos os teus amigos",
+          "english": "Yes, we know your friends"
+        },
+        {
+          "portuguese": "Sair",
+          "english": "To go out"
+        },
+        {
+          "portuguese": "Saio",
+          "english": "I am leaving/I leave"
+        },
+        {
+          "portuguese": "Sai",
+          "english": "You leave/are leaving/he/she/it leaves/is leaving"
+        },
+        {
+          "portuguese": "Saem tarde",
+          "english": "They leave late"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Põe",
+          "english": "You put/he/she/it puts"
+        },
+        {
+          "portuguese": "Pões",
+          "english": "You put/are putting"
+        },
+        {
+          "portuguese": "Põem",
+          "english": "You all put/are putting/they put/are putting"
+        },
+        {
+          "portuguese": "Ponho-o aqui",
+          "english": "I put it here"
+        },
+        {
+          "portuguese": "Não o ponhas lá",
+          "english": "Don&apos;t put it there"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Falar",
+          "english": "To speak"
+        },
+        {
+          "portuguese": "Falarei",
+          "english": "I will speak"
+        },
+        {
+          "portuguese": "Comer",
+          "english": "To eat"
+        },
+        {
+          "portuguese": "Comerão",
+          "english": "They will eat"
+        },
+        {
+          "portuguese": "Partir",
+          "english": "To depart/leave"
+        },
+        {
+          "portuguese": "Partiremos amanhã",
+          "english": "We will leave tomorrow"
+        },
+        {
+          "portuguese": "Vir",
+          "english": "To come"
+        },
+        {
+          "portuguese": "Virá",
+          "english": "You/he/she/it will come"
+        },
+        {
+          "portuguese": "Virás",
+          "english": "You will come"
+        },
+        {
+          "portuguese": "Para casa",
+          "english": "Home/towards home"
+        },
+        {
+          "portuguese": "Virá para casa mais tarde",
+          "english": "He will come home later"
+        },
+        {
+          "portuguese": "Comprá-lo-ei",
+          "english": "I will buy it"
+        },
+        {
+          "portuguese": "Vendê-lo-ei",
+          "english": "I will sell it"
+        },
+        {
+          "portuguese": "Vou vendê-lo",
+          "english": "I am going to sell it"
+        },
+        {
+          "portuguese": "Fazer",
+          "english": "To do"
+        },
+        {
+          "portuguese": "Farei",
+          "english": "I will do"
+        },
+        {
+          "portuguese": "Farás",
+          "english": "You will do"
+        },
+        {
+          "portuguese": "Faremos",
+          "english": "We will do"
+        },
+        {
+          "portuguese": "Dizer",
+          "english": "To tell"
+        },
+        {
+          "portuguese": "Direi",
+          "english": "I will say"
+        },
+        {
+          "portuguese": "Dirá",
+          "english": "He will say"
+        },
+        {
+          "portuguese": "É necessário",
+          "english": "It is necessary"
+        },
+        {
+          "portuguese": "Será necessário",
+          "english": "It will be necessary"
+        },
+        {
+          "portuguese": "Será necessário fazê-lo assim",
+          "english": "It will be necessary to do it this way"
+        },
+        {
+          "portuguese": "Ter",
+          "english": "To have"
+        },
+        {
+          "portuguese": "Terão",
+          "english": "They will have"
+        },
+        {
+          "portuguese": "Para a semana que vem",
+          "english": "For next week"
+        },
+        {
+          "portuguese": "Não o terão pronto para a semana que vem",
+          "english": "They won&apos;t have it ready for next week"
+        },
+        {
+          "portuguese": "Esperar",
+          "english": "To hope/to wait"
+        },
+        {
+          "portuguese": "Esperarei os teus amigos aqui",
+          "english": "I will wait for your friends here"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Seria necessário",
+          "english": "It would be necessary"
+        },
+        {
+          "portuguese": "Não seria possível assim",
+          "english": "It wouldn&apos;t be possible that way"
+        },
+        {
+          "portuguese": "Faria a tradução hoje, mas não tenho tempo",
+          "english": "I would do the translation today, but I don&apos;t have time"
+        },
+        {
+          "portuguese": "Fá-lo-ia",
+          "english": "I would do it"
+        },
+        {
+          "portuguese": "Gostar de",
+          "english": "To like"
+        },
+        {
+          "portuguese": "Isto",
+          "english": "This"
+        },
+        {
+          "portuguese": "Gosto de fazer isto",
+          "english": "I like to do this"
+        },
+        {
+          "portuguese": "Disto",
+          "english": "Of this"
+        },
+        {
+          "portuguese": "Gostaria de ver isto",
+          "english": "I would like to see this"
+        },
+        {
+          "portuguese": "Gostaria de ficar mais tempo",
+          "english": "I would like to stay more time"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Comprei",
+          "english": "I bought/have bought"
+        },
+        {
+          "portuguese": "Ontem",
+          "english": "Yesterday"
+        },
+        {
+          "portuguese": "Comprei-o ontem",
+          "english": "I bought it yesterday"
+        },
+        {
+          "portuguese": "Vendi",
+          "english": "I sold"
+        },
+        {
+          "portuguese": "Parti",
+          "english": "I have left"
+        },
+        {
+          "portuguese": "Partiu",
+          "english": "She left"
+        },
+        {
+          "portuguese": "Vendeu",
+          "english": "You/he/she/it sold"
+        },
+        {
+          "portuguese": "Partimos do Brasil ontem",
+          "english": "We left Brazil yesterday"
+        },
+        {
+          "portuguese": "Ontem à noite",
+          "english": "Last night"
+        },
+        {
+          "portuguese": "Não comemos nada ontem à noite",
+          "english": "We didn&apos;t eat anything last night"
+        },
+        {
+          "portuguese": "Compraram",
+          "english": "They bought"
+        },
+        {
+          "portuguese": "Venderam",
+          "english": "They sold"
+        },
+        {
+          "portuguese": "Partiram",
+          "english": "They left"
+        },
+        {
+          "portuguese": "Venderam-no",
+          "english": "They sold it"
+        },
+        {
+          "portuguese": "Compraste",
+          "english": "You bought"
+        },
+        {
+          "portuguese": "Vendeste",
+          "english": "You sold"
+        },
+        {
+          "portuguese": "Partiste",
+          "english": "You left"
+        }
+      ],
+      "12": [
+        {
+          "portuguese": "Perder",
+          "english": "To lose"
+        },
+        {
+          "portuguese": "Perdi",
+          "english": "I have lost"
+        },
+        {
+          "portuguese": "Perdi-o",
+          "english": "I have lost it"
+        },
+        {
+          "portuguese": "Escrever",
+          "english": "To write"
+        },
+        {
+          "portuguese": "Escreveu-me",
+          "english": "He wrote me"
+        },
+        {
+          "portuguese": "Dois",
+          "english": "Two - masculine"
+        },
+        {
+          "portuguese": "Duas",
+          "english": "Two - feminine"
+        },
+        {
+          "portuguese": "Duas horas",
+          "english": "Two hours"
+        },
+        {
+          "portuguese": "Dois dias",
+          "english": "Two days"
+        },
+        {
+          "portuguese": "Chegar",
+          "english": "To arrive"
+        },
+        {
+          "portuguese": "Chegámos há duas horas",
+          "english": "We arrived two hours ago"
+        },
+        {
+          "portuguese": "Esperar",
+          "english": "To wait"
+        },
+        {
+          "portuguese": "Esperaram dois dias",
+          "english": "They waited for two days"
+        },
+        {
+          "portuguese": "Ainda",
+          "english": "Yet/still"
+        },
+        {
+          "portuguese": "Ainda não",
+          "english": "Not yet"
+        },
+        {
+          "portuguese": "Os meus amigos ainda não chegaram",
+          "english": "My friends have not arrived yet"
+        },
+        {
+          "portuguese": "Com",
+          "english": "With"
+        },
+        {
+          "portuguese": "Uns",
+          "english": "A few - masculine"
+        },
+        {
+          "portuguese": "Umas",
+          "english": "A few - feminine"
+        },
+        {
+          "portuguese": "Ficaram com os meus amigos uns dias",
+          "english": "They stayed with my friends a few days"
+        },
+        {
+          "portuguese": "Fiquei",
+          "english": "I stayed"
+        },
+        {
+          "portuguese": "Não fiquei muito tempo",
+          "english": "I didn&apos;t stay very long"
+        },
+        {
+          "portuguese": "Já saíram",
+          "english": "They&apos;ve already gone out"
+        },
+        {
+          "portuguese": "Já comeu tudo",
+          "english": "He&apos;s already eaten everything"
+        },
+        {
+          "portuguese": "Já o comprámos",
+          "english": "We&apos;ve already bought it"
+        }
+      ]
+    },
+    "3": {
+      "1": [
+        {
+          "portuguese": "Desculpar",
+          "english": "To excuse"
+        },
+        {
+          "portuguese": "Isso",
+          "english": "That"
+        },
+        {
+          "portuguese": "Esse livro",
+          "english": "That book"
+        },
+        {
+          "portuguese": "Essa casa",
+          "english": "That house"
+        },
+        {
+          "portuguese": "Esses carros",
+          "english": "Those cars"
+        },
+        {
+          "portuguese": "A nossa casa",
+          "english": "Our house"
+        },
+        {
+          "portuguese": "O nosso carro",
+          "english": "Our car"
+        },
+        {
+          "portuguese": "Mais uns dias",
+          "english": "A few more days"
+        },
+        {
+          "portuguese": "Os nossos amigos vão ficar aqui ainda mais uns dias",
+          "english": "Our friends are going to stay here a few more days"
+        },
+        {
+          "portuguese": "Na nossa casa",
+          "english": "In our house"
+        },
+        {
+          "portuguese": "Nesta cidade",
+          "english": "In this city"
+        },
+        {
+          "portuguese": "Nesta cidade há muita gente",
+          "english": "In this city there are many people"
+        },
+        {
+          "portuguese": "Precisar de",
+          "english": "To need"
+        },
+        {
+          "portuguese": "Preciso dele",
+          "english": "I need it"
+        },
+        {
+          "portuguese": "Preciso dela",
+          "english": "I need it"
+        },
+        {
+          "portuguese": "O livro",
+          "english": "The book"
+        },
+        {
+          "portuguese": "Um livro",
+          "english": "A book"
+        },
+        {
+          "portuguese": "Este livro",
+          "english": "This book"
+        },
+        {
+          "portuguese": "A noite",
+          "english": "The night"
+        },
+        {
+          "portuguese": "Uma noite",
+          "english": "A night"
+        },
+        {
+          "portuguese": "Esta noite",
+          "english": "This night"
+        },
+        {
+          "portuguese": "Deste",
+          "english": "Of this"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Sou",
+          "english": "I am"
+        },
+        {
+          "portuguese": "Somos",
+          "english": "We are"
+        },
+        {
+          "portuguese": "São",
+          "english": "You all/they are"
+        },
+        {
+          "portuguese": "Ver",
+          "english": "To see"
+        },
+        {
+          "portuguese": "Vejo",
+          "english": "I see"
+        },
+        {
+          "portuguese": "Vejo que os nossos amigos ainda não chegaram",
+          "english": "I see that our friends haven&apos;t arrived yet"
+        },
+        {
+          "portuguese": "Não vejo nada",
+          "english": "I can&apos;t see anything"
+        },
+        {
+          "portuguese": "Vêem",
+          "english": "You all see"
+        },
+        {
+          "portuguese": "Vemos",
+          "english": "We see"
+        },
+        {
+          "portuguese": "Vemos tudo",
+          "english": "We see everything"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Disse",
+          "english": "I said/told"
+        },
+        {
+          "portuguese": "Disse-lhe algo ontem",
+          "english": "I told him something yesterday"
+        },
+        {
+          "portuguese": "Disse",
+          "english": "You said/he/she/it said"
+        },
+        {
+          "portuguese": "Disseste",
+          "english": "You said/told"
+        },
+        {
+          "portuguese": "Dissemos",
+          "english": "We said"
+        },
+        {
+          "portuguese": "Disseram",
+          "english": "You all/they said"
+        },
+        {
+          "portuguese": "Disse a verdade",
+          "english": "I told the truth"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Fiz",
+          "english": "I made/have made"
+        },
+        {
+          "portuguese": "Não fizemos nada",
+          "english": "We didn&apos;t do anything"
+        },
+        {
+          "portuguese": "Fizeram-no para ela",
+          "english": "They made it for her"
+        },
+        {
+          "portuguese": "Fez",
+          "english": "You/he/she/it did"
+        },
+        {
+          "portuguese": "Fizemo-lo",
+          "english": "We did it"
+        },
+        {
+          "portuguese": "Fizemo-la",
+          "english": "We did it"
+        },
+        {
+          "portuguese": "Fi-lo ontem",
+          "english": "I did it yesterday"
+        },
+        {
+          "portuguese": "Fi-la ontem",
+          "english": "I did it yesterday"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Pôs",
+          "english": "I put/you/he/she/it put"
+        },
+        {
+          "portuguese": "Ali",
+          "english": "There"
+        },
+        {
+          "portuguese": "Não o pus ali",
+          "english": "I didn&apos;t put it there"
+        },
+        {
+          "portuguese": "Pusemo-lo aqui",
+          "english": "We put it here"
+        },
+        {
+          "portuguese": "Puseram",
+          "english": "They/you all put"
+        },
+        {
+          "portuguese": "Pôs algo aqui",
+          "english": "He put something here"
+        },
+        {
+          "portuguese": "Quis",
+          "english": "I wanted/you/he/she/it wanted"
+        },
+        {
+          "portuguese": "Não o quis",
+          "english": "I didn&apos;t want it"
+        },
+        {
+          "portuguese": "Não o quis",
+          "english": "He didn&apos;t want it"
+        },
+        {
+          "portuguese": "Não quisemos nada",
+          "english": "We didn&apos;t want anything"
+        },
+        {
+          "portuguese": "Quisemo-lo",
+          "english": "We wanted it"
+        },
+        {
+          "portuguese": "Quiseram",
+          "english": "They wanted"
+        },
+        {
+          "portuguese": "Trouxe",
+          "english": "I brought/you/he/she/it brought"
+        },
+        {
+          "portuguese": "Trouxeram",
+          "english": "They brought/have brought"
+        },
+        {
+          "portuguese": "Não trouxemos nada",
+          "english": "We didn&apos;t bring anything"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Tive",
+          "english": "I had"
+        },
+        {
+          "portuguese": "Estive",
+          "english": "I was"
+        },
+        {
+          "portuguese": "Estivemos em casa",
+          "english": "We were at home"
+        },
+        {
+          "portuguese": "Não tive nada para fazer",
+          "english": "I didn&apos;t have anything to do"
+        },
+        {
+          "portuguese": "Não tivemos nada para fazer",
+          "english": "We didn&apos;t have anything to do"
+        },
+        {
+          "portuguese": "Esteve",
+          "english": "You/he/she/it was"
+        },
+        {
+          "portuguese": "Teve",
+          "english": "You/he/she/it had"
+        },
+        {
+          "portuguese": "Esteve aqui",
+          "english": "He was here"
+        },
+        {
+          "portuguese": "Teve de fazer algo",
+          "english": "He had to do something"
+        },
+        {
+          "portuguese": "Esteve aqui e teve de fazê-lo",
+          "english": "He was here and had to do it"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Pude",
+          "english": "I was able to/I could"
+        },
+        {
+          "portuguese": "Pude fazê-lo",
+          "english": "I was able to do it"
+        },
+        {
+          "portuguese": "Não pudemos fazer nada",
+          "english": "We weren&apos;t able to do anything"
+        },
+        {
+          "portuguese": "Pôde",
+          "english": "You/he/she/it could"
+        },
+        {
+          "portuguese": "Nestes dias",
+          "english": "These days/nowadays"
+        },
+        {
+          "portuguese": "Nestes dias gostamos de ficar em casa",
+          "english": "Nowadays we like to stay at home"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "Aceitar",
+          "english": "To accept"
+        },
+        {
+          "portuguese": "Deixar",
+          "english": "To leave something behind"
+        },
+        {
+          "portuguese": "Deixei algo para o senhor",
+          "english": "I left something for you"
+        },
+        {
+          "portuguese": "Mensagem",
+          "english": "Message"
+        },
+        {
+          "portuguese": "Deixei uma mensagem para o senhor",
+          "english": "I left a message for you"
+        },
+        {
+          "portuguese": "Deixei uma mensagem para ti, Roberto",
+          "english": "I left a message for you, Roberto"
+        },
+        {
+          "portuguese": "Passar tempo",
+          "english": "To spend time"
+        },
+        {
+          "portuguese": "Não passámos muito tempo na sua casa",
+          "english": "We didn&apos;t spend a lot of time in their house"
+        },
+        {
+          "portuguese": "Acabar de",
+          "english": "To have just done something/to finish"
+        },
+        {
+          "portuguese": "Acabo de passar dois dias com ele",
+          "english": "I have just spent two days with him"
+        },
+        {
+          "portuguese": "Acabamos de sair",
+          "english": "We have just gone out"
+        },
+        {
+          "portuguese": "Acabamos de partir",
+          "english": "We have just left"
+        },
+        {
+          "portuguese": "Acabou",
+          "english": "He finished"
+        },
+        {
+          "portuguese": "Acabou de comer e saiu de casa",
+          "english": "He finished eating and left home"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Esperava",
+          "english": "I was waiting"
+        },
+        {
+          "portuguese": "Preparava-o",
+          "english": "You were preparing it"
+        },
+        {
+          "portuguese": "Preparava-lo",
+          "english": "You were preparing it"
+        },
+        {
+          "portuguese": "Preparavam-no",
+          "english": "They were preparing it"
+        },
+        {
+          "portuguese": "Comía",
+          "english": "I was eating"
+        },
+        {
+          "portuguese": "Saía",
+          "english": "I was leaving/going out"
+        },
+        {
+          "portuguese": "Fazia-o",
+          "english": "I was doing it"
+        },
+        {
+          "portuguese": "Faziam algo",
+          "english": "They were doing something"
+        },
+        {
+          "portuguese": "Dizia",
+          "english": "I was saying"
+        },
+        {
+          "portuguese": "Dizia-me como fazê-lo",
+          "english": "He was telling me how to do it"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "Queria",
+          "english": "I wanted"
+        },
+        {
+          "portuguese": "Queria saber onde estava",
+          "english": "I wanted to know where you were"
+        },
+        {
+          "portuguese": "Estava em Lisboa",
+          "english": "I was in Lisbon"
+        },
+        {
+          "portuguese": "Ia comprá-lo",
+          "english": "I was going to buy it"
+        },
+        {
+          "portuguese": "Falávamos português com ele",
+          "english": "We used to speak Portuguese with him"
+        },
+        {
+          "portuguese": "Falavam inglês",
+          "english": "They used to speak English"
+        },
+        {
+          "portuguese": "Podia",
+          "english": "I was able/could"
+        },
+        {
+          "portuguese": "Falavam inglês quando podiam",
+          "english": "They spoke English whenever they were able to"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Vi-o ali",
+          "english": "I saw it there"
+        },
+        {
+          "portuguese": "Vimos tudo",
+          "english": "We saw everything"
+        },
+        {
+          "portuguese": "Viu",
+          "english": "You/he/she/it saw"
+        },
+        {
+          "portuguese": "Não viu nada",
+          "english": "He didn&apos;t see anything"
+        },
+        {
+          "portuguese": "Foi",
+          "english": "You/he/she/it went/was"
+        },
+        {
+          "portuguese": "Fui",
+          "english": "I went/was"
+        },
+        {
+          "portuguese": "Fomos",
+          "english": "We went/were"
+        },
+        {
+          "portuguese": "Foram",
+          "english": "You all/they went/were"
+        },
+        {
+          "portuguese": "Fomos ao Brasil",
+          "english": "We went to Brazil"
+        },
+        {
+          "portuguese": "Fui para casa ontem",
+          "english": "I went home yesterday"
+        },
+        {
+          "portuguese": "O documento foi preparado",
+          "english": "The document was prepared"
+        },
+        {
+          "portuguese": "Vim",
+          "english": "I came"
+        },
+        {
+          "portuguese": "Veio",
+          "english": "You/he/she/it came"
+        },
+        {
+          "portuguese": "Vieste",
+          "english": "You came"
+        },
+        {
+          "portuguese": "Vieram e viram-no",
+          "english": "They came and they saw it"
+        },
+        {
+          "portuguese": "Vim ontem",
+          "english": "I came yesterday"
+        },
+        {
+          "portuguese": "Quem",
+          "english": "Who"
+        }
+      ]
+    },
+    "4": {
+      "1": [
+        {
+          "portuguese": "Tinha",
+          "english": "I had/you/he/she/it had"
+        },
+        {
+          "portuguese": "Tinha fome",
+          "english": "I was hungry"
+        },
+        {
+          "portuguese": "Tinham uma casa em Londres",
+          "english": "They had a house in London"
+        },
+        {
+          "portuguese": "Vinha",
+          "english": "I came/you/he/she/it came"
+        },
+        {
+          "portuguese": "Vinha aqui todos os anos",
+          "english": "He came here every year"
+        },
+        {
+          "portuguese": "Sempre",
+          "english": "Always"
+        },
+        {
+          "portuguese": "Neste",
+          "english": "In this"
+        },
+        {
+          "portuguese": "Vínhamos sempre jantar neste restaurante",
+          "english": "We would always come to dine in this restaurant"
+        },
+        {
+          "portuguese": "Punha",
+          "english": "I put/used to put"
+        },
+        {
+          "portuguese": "Punha sempre os seus livros aqui",
+          "english": "He always used to put his books here"
+        },
+        {
+          "portuguese": "A Maria era bonita",
+          "english": "Maria was pretty"
+        },
+        {
+          "portuguese": "Tão",
+          "english": "So"
+        },
+        {
+          "portuguese": "A Maria era tão bonita",
+          "english": "Maria was so pretty"
+        },
+        {
+          "portuguese": "A Maria estava tão bonita ontem",
+          "english": "Maria was looking so pretty yesterday"
+        }
+      ],
+      "2": [
+        {
+          "portuguese": "Não sabia que ia chegar hoje",
+          "english": "I didn&apos;t know that you were going to arrive today"
+        },
+        {
+          "portuguese": "Não tinha tempo",
+          "english": "I didn&apos;t have time"
+        },
+        {
+          "portuguese": "Estava muito ocupado ontem",
+          "english": "I was very busy yesterday"
+        },
+        {
+          "portuguese": "Estava muito ocupada ontem",
+          "english": "I was very busy yesterday"
+        },
+        {
+          "portuguese": "Queria fazê-lo",
+          "english": "I wanted to do it"
+        },
+        {
+          "portuguese": "Queriam comprá-lo",
+          "english": "They wanted to buy it"
+        },
+        {
+          "portuguese": "Passado",
+          "english": "Last"
+        },
+        {
+          "portuguese": "No ano passado",
+          "english": "Last year"
+        },
+        {
+          "portuguese": "Na semana passada",
+          "english": "Last week"
+        },
+        {
+          "portuguese": "Tínhamos uma casa em Portugal mas vendemo-la no ano passado",
+          "english": "We had a house in Portugal but we sold it last year"
+        },
+        {
+          "portuguese": "Tínhamos uma casa em Portugal mas vendemo-la na semana passada",
+          "english": "We had a house in Portugal but we sold it last week"
+        }
+      ],
+      "3": [
+        {
+          "portuguese": "Não podia fazê-lo",
+          "english": "I couldn&apos;t do it/I wasn&apos;t able to do it"
+        },
+        {
+          "portuguese": "Não poderia fazê-lo",
+          "english": "I couldn&apos;t do it/I would not be able to do it"
+        },
+        {
+          "portuguese": "Demasiado",
+          "english": "Too"
+        },
+        {
+          "portuguese": "Não podia fazer nada porque estava demasiado cansado",
+          "english": "I couldn&apos;t do anything because I was too tired"
+        },
+        {
+          "portuguese": "Não podia fazer nada porque estava demasiado cansada",
+          "english": "I couldn&apos;t do anything because I was too tired"
+        },
+        {
+          "portuguese": "Dever",
+          "english": "To have to/must"
+        },
+        {
+          "portuguese": "Devo",
+          "english": "I have to/I must/I owe"
+        },
+        {
+          "portuguese": "Devo fazê-lo",
+          "english": "I must do it"
+        },
+        {
+          "portuguese": "Deverei fazê-lo",
+          "english": "I will have to do it"
+        }
+      ],
+      "4": [
+        {
+          "portuguese": "Tinha comprado",
+          "english": "I had bought"
+        },
+        {
+          "portuguese": "Tinha comprado-o",
+          "english": "I had bought it"
+        },
+        {
+          "portuguese": "Tinha-o comprado",
+          "english": "I had bought it"
+        },
+        {
+          "portuguese": "Perguntar",
+          "english": "To ask"
+        },
+        {
+          "portuguese": "Perguntou-me onde o tinha comprado",
+          "english": "He asked me where I had bought it"
+        },
+        {
+          "portuguese": "Comprado",
+          "english": "Bought"
+        },
+        {
+          "portuguese": "Preparado",
+          "english": "Prepared"
+        }
+      ],
+      "5": [
+        {
+          "portuguese": "Partido",
+          "english": "Left"
+        },
+        {
+          "portuguese": "Vendido",
+          "english": "Sold"
+        },
+        {
+          "portuguese": "Já tinha partido",
+          "english": "He had already left"
+        },
+        {
+          "portuguese": "Tinha-o vendido",
+          "english": "He had sold it"
+        },
+        {
+          "portuguese": "Tinha vendido-o",
+          "english": "He had sold it"
+        },
+        {
+          "portuguese": "Teria ido",
+          "english": "I would have gone"
+        },
+        {
+          "portuguese": "Teríamos ido contigo mas era tarde",
+          "english": "We would have gone with you but it was late"
+        }
+      ],
+      "6": [
+        {
+          "portuguese": "Feito",
+          "english": "Made"
+        },
+        {
+          "portuguese": "Visto",
+          "english": "Seen"
+        },
+        {
+          "portuguese": "Dito",
+          "english": "Said"
+        },
+        {
+          "portuguese": "Sido",
+          "english": "Been"
+        },
+        {
+          "portuguese": "Posto",
+          "english": "Put"
+        },
+        {
+          "portuguese": "Feito em Portugal",
+          "english": "Made in Portugal"
+        },
+        {
+          "portuguese": "Tinha-o visto",
+          "english": "I had seen it"
+        },
+        {
+          "portuguese": "Tinha visto-o",
+          "english": "I had seen it"
+        },
+        {
+          "portuguese": "Teria dito tudo",
+          "english": "I would have said everything"
+        },
+        {
+          "portuguese": "Teria sido possível",
+          "english": "It would have been possible"
+        },
+        {
+          "portuguese": "Teria posto",
+          "english": "I would have put"
+        },
+        {
+          "portuguese": "Fazer as compras",
+          "english": "To do the shopping"
+        },
+        {
+          "portuguese": "Compras",
+          "english": "Purchases"
+        },
+        {
+          "portuguese": "Teria posto as compras aqui",
+          "english": "I would have put the shopping here"
+        },
+        {
+          "portuguese": "Compraria",
+          "english": "I would buy"
+        },
+        {
+          "portuguese": "Teria comprado",
+          "english": "I would have bought"
+        },
+        {
+          "portuguese": "Queria saber se compraria o seu carro",
+          "english": "He wanted to know if I would buy his car"
+        },
+        {
+          "portuguese": "Ter comprado",
+          "english": "To have bought"
+        },
+        {
+          "portuguese": "Poderia tê-lo comprado no ano passado",
+          "english": "I could have bought it last year"
+        },
+        {
+          "portuguese": "Teria comprado algo",
+          "english": "I would have bought something"
+        }
+      ],
+      "7": [
+        {
+          "portuguese": "Devia comprá-lo",
+          "english": "I should buy it"
+        },
+        {
+          "portuguese": "Devia tê-lo comprado",
+          "english": "I should have bought it"
+        },
+        {
+          "portuguese": "Poderia tê-lo comprado",
+          "english": "I could have bought it"
+        },
+        {
+          "portuguese": "Teria comprado algo",
+          "english": "I would have bought something"
+        },
+        {
+          "portuguese": "Poderia ter comprado algo",
+          "english": "I could have bought something"
+        },
+        {
+          "portuguese": "Devia têr-me dito",
+          "english": "You should have told me"
+        },
+        {
+          "portuguese": "Poderia ter-me dito",
+          "english": "You could have told me"
+        },
+        {
+          "portuguese": "Poderia-me ter dito",
+          "english": "You could have told me"
+        },
+        {
+          "portuguese": "Podia ter-me dito",
+          "english": "You could have told me"
+        },
+        {
+          "portuguese": "Podia-me ter dito",
+          "english": "You could have told me"
+        }
+      ],
+      "8": [
+        {
+          "portuguese": "É importante que compre o livro",
+          "english": "It&apos;s important that you buy the book"
+        },
+        {
+          "portuguese": "É importante que me ligue",
+          "english": "It is important that you ring me"
+        },
+        {
+          "portuguese": "Não é necessário que parta",
+          "english": "It is not necessary that you leave"
+        },
+        {
+          "portuguese": "Não é possível que venha comigo amanhã",
+          "english": "It is not possible that you come with me tomorrow"
+        },
+        {
+          "portuguese": "Quero que me escreva todos os dias",
+          "english": "I want you to write to me every day"
+        },
+        {
+          "portuguese": "Quero que o faças",
+          "english": "I want you to do it"
+        }
+      ],
+      "9": [
+        {
+          "portuguese": "Espero que venha",
+          "english": "I hope that he comes/will come"
+        },
+        {
+          "portuguese": "Esperamos que fiquem em casa",
+          "english": "We hope that they will stay at home"
+        },
+        {
+          "portuguese": "Espero que possa vir",
+          "english": "I hope that you can come"
+        },
+        {
+          "portuguese": "É necessário que chegue amanhã",
+          "english": "It is necessary for you to arrive tomorrow"
+        },
+        {
+          "portuguese": "É necessário chegar amanhã",
+          "english": "It is necessary to arrive tomorrow"
+        }
+      ],
+      "10": [
+        {
+          "portuguese": "É necessário que cheguemos amanhã",
+          "english": "It is necessary for us to arrive tomorrow"
+        },
+        {
+          "portuguese": "É necessário chegarmos amanhã",
+          "english": "It is necessary for us to arrive tomorrow"
+        },
+        {
+          "portuguese": "É necessário chegares amanhã",
+          "english": "It is necessary for you to arrive tomorrow"
+        },
+        {
+          "portuguese": "Para comprares isto terás de ir a Lisboa",
+          "english": "For you to buy this you have to go to Lisbon"
+        },
+        {
+          "portuguese": "Para comprarem isto terão de ir a Lisboa",
+          "english": "For you to buy this you will have to go to Lisbon"
+        },
+        {
+          "portuguese": "Para ele saber",
+          "english": "For him to know"
+        },
+        {
+          "portuguese": "Liguei-lhe para ele saber onde estava",
+          "english": "I rang him so that he would know where I was"
+        },
+        {
+          "portuguese": "Encontrar",
+          "english": "To find"
+        },
+        {
+          "portuguese": "Ligou-me para eu saber onde o encontrar",
+          "english": "He rang me so that I would know where to find it"
+        },
+        {
+          "portuguese": "É possível eu chegar amanhã",
+          "english": "It is possible that I arrive tomorrow"
+        },
+        {
+          "portuguese": "É possível que chegue amanhã",
+          "english": "It is possible that I arrive tomorrow"
+        }
+      ],
+      "11": [
+        {
+          "portuguese": "Esteja",
+          "english": "That I/you/he/she/it be"
+        },
+        {
+          "portuguese": "Seja",
+          "english": "That I/you/he/she/it be"
+        },
+        {
+          "portuguese": "É necessário que esteja aqui",
+          "english": "It is necessary that you be here"
+        },
+        {
+          "portuguese": "Espero que seja possível",
+          "english": "I hope it is possible"
+        },
+        {
+          "portuguese": "É necessário que vá a Lisboa",
+          "english": "It is necessary that I go to Lisbon"
+        },
+        {
+          "portuguese": "É necessário que vão para casa",
+          "english": "It is necessary that they go home"
+        },
+        {
+          "portuguese": "É possível que o queira amanhã",
+          "english": "It is possible that I may want it tomorrow"
+        },
+        {
+          "portuguese": "Querer dizer",
+          "english": "To mean"
+        },
+        {
+          "portuguese": "É importante que saiba o que quer dizer isto",
+          "english": "It is important that you should know what this means"
+        }
+      ],
+      "12": [
+        {
+          "portuguese": "Perguntou-me se tinha ligado ao Pedro",
+          "english": "He asked me if I had rung Pedro"
+        },
+        {
+          "portuguese": "Perguntou-me se tinha ligado à Maria",
+          "english": "He asked me if I had rung Maria"
+        },
+        {
+          "portuguese": "Se me tivesse ligado ontem à noite, e se me tivesse dito que ia chegar hoje, teria esperado, teria feito uma reserva, teríamos jantado, teríamos ido vê-lo e teria sido muito bom",
+          "english": "If you had called me last night, and if you had told me that you were going to arrive today, I would have waited, I would have made a reservation, we would have dined, we would have gone to see it and it would have been very good"
+        }
+      ]
+    }
+  }
+}
